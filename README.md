@@ -28,7 +28,7 @@ This includes the [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethere
 
 ## 🗺️ zkGraph Ecosystem
 
-- [zkGraph Examples](https://github.com/hyperoracle/zkgraph): A list of zkGraphs, including Uniswap Price Calculation, zkAutomation-based zkGraph, and multi-address based zkGraph. This is the implementation by Hyper Oracle.
+- [zkGraph Examples](https://github.com/hyperoracle/zkgraph/tree/b9fe1a6c2efd7e6a5793c47799da8745c1c748c4/example): A list of zkGraphs, including Uniswap Price Calculation, zkAutomation-based zkGraph, and multi-address based zkGraph. This is the implementation by Hyper Oracle.
 - [zkUsecases](https://github.com/LiRiu/zkUsecases): A list of zkGraphs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block. This is displayed on Hyper Oracle's [use case page](https://www.hyperoracle.io/app/cases).
 - [Marine](https://github.com/LiRiu/zkCompound/): A zkGraph for liquidation on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
 - [zkToken](https://github.com/hyperoracle/zkToken): A zkGraph as ERC20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
