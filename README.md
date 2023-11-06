@@ -30,7 +30,7 @@ This includes the [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethere
 
 - [zkGraph Examples](https://github.com/hyperoracle/zkgraph): A list of zkGraphs, including Uniswap Price Calculation, zkAutomation-based zkGraph, and multi-address based zkGraph. This is the implementation by Hyper Oracle.
 - [zkUsecases](https://github.com/LiRiu/zkUsecases): A list of zkGraphs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block. This is displayed on Hyper Oracle's [use case page](https://www.hyperoracle.io/app/cases).
-- [zkCompound](https://github.com/LiRiu/zkCompound/): A zkGraph for liquidation on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
+- [Marine](https://github.com/LiRiu/zkCompound/): A zkGraph for liquidation on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
 
 ## 📜 [ERC-6150](https://eips.ethereum.org/EIPS/eip-6150) & [ERC-7007](https://eips.ethereum.org/EIPS/eip-7007)
 
