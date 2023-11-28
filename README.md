@@ -39,20 +39,26 @@ This includes the [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethere
 
 ## 🔧 Other Contribution by Hyper Oracle
 
-### World Supercomputer:
+### World Supercomputer
 
 - [Litepaper as Co-initiator](https://review.stanfordblockchain.xyz/p/towards-world-supercomputer)
 - [WSC Summit 2023](https://hackmd.io/@EEEZ5333/World-Supercomputer-Summit-2023-Recap)
 - [WSC Community Day @Token2049](https://hackmd.io/@EEEZ5333/World-Supercomputer-Token2049-Recap)
 
-### Open Source Libraries:
+## Improvement Proposals
+
+- [Ethereum/ERC-6150](https://eips.ethereum.org/EIPS/eip-6150)
+- [Ethereum/ERC-7007](https://eips.ethereum.org/EIPS/eip-7007)
+- [Celestia/CIP-5](https://github.com/celestiaorg/CIPs/blob/main/cips/cip-5.md)
+
+### Open Source Libraries
 
 - [create-zkgraph](https://www.npmjs.com/package/create-zkgraph)
 - [zkgraph-api](https://www.npmjs.com/package/@hyperoracle/zkgraph-api)
 - [zkgraph-lib](https://www.npmjs.com/package/@hyperoracle/zkgraph-lib)
 - [zkgraph-cli](https://www.npmjs.com/package/@hyperoracle/zkgraph-cli)
 
-### Open Grant Contribution:
+### Open Grant Contribution
 
 - [Ethereum Foundation KZG Ceremony Grant](https://blog.ethereum.org/2022/12/15/kzg-ceremony-grants-round)/[Halo2-based KZG Ceremony Client](https://mirror.xyz/hyperoracleblog.eth/vPwYqWWmsWW5JPqlOjk9fMo7Ba72D40Ph9SyjthEZDE)
-- [Compound Grant](https://www.comp.xyz/t/compound-grants-program-lessons-and-next-steps/2264)/[WIP](https://questbook.app/dashboard/?proposalId=0x336&role=admin&grantId=0xeb047900b28a9f90f3c0e65768b23e7542a65163&isRenderingProposalBody=true&chainId=10)
+- [Compound Grant](https://www.comp.xyz/t/compound-grants-program-lessons-and-next-steps/2264)/[Marine](https://github.com/hyperoracle/Marine)
