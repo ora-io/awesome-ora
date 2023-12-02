@@ -7,6 +7,7 @@
   - [🌍 Overview](#-overview)
   - [🔮 zkOracle Ecosystem](#-zkoracle-ecosystem)
   - [🗺️ zkGraph Ecosystem](#️-zkgraph-ecosystem)
+  - [💡 Project Ideas](#-project-ideas)
   - [📜 ERC-6150 \& ERC-7007](#-erc-6150--erc-7007)
   - [🔧 Other Contribution by Hyper Oracle](#-other-contribution-by-hyper-oracle)
     - [World Supercomputer:](#world-supercomputer)
@@ -18,6 +19,8 @@
 This list focuses on the work related to the Hyper Oracle ecosystem.
 
 This includes the [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethereum/15131) ecosystem, the [zkGraph](https://docs.hyperoracle.io/zkgraph/introduction) ecosystem, the ERC ecosystem co-authored by Hyper Oracle, and other Hyper Oracle contributions.
+
+Developers can leverage zkOracle's historical data access, and zkGraph's programmable zkVM-powered trustless compute to build decentralized application with more data and more compute.
 
 ## 🔮 zkOracle Ecosystem
 
@@ -36,6 +39,12 @@ _A List of zkGraphs Built by Hyper Oracle and Community._
 - [zkUsecases](https://github.com/LiRiu/zkUsecases): A list of zkGraphs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block. This is displayed on Hyper Oracle's [use case page](https://www.hyperoracle.io/app/cases).
 - [Marine](https://github.com/hyperoracle/marine/): A zkGraph for liquidation on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
 - [zkToken](https://github.com/hyperoracle/zkToken): A zkGraph as ERC20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
+
+## 💡 Project Ideas
+
+_Ideas to Build with zkOracle or zkGraph._
+
+
 
 ## 📜 [ERC-6150](https://eips.ethereum.org/EIPS/eip-6150) & [ERC-7007](https://eips.ethereum.org/EIPS/eip-7007)
 
