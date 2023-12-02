@@ -21,6 +21,8 @@ This includes the [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethere
 
 ## 🔮 zkOracle Ecosystem
 
+_A Collection of Projects Using Hyper Oracle zkOracle._
+
 - [zkAMM](https://github.com/Defi-3/zkAMM-contracts): A zkOracle-based automated market maker that is fully scalable with unlimited computation resources.
 - [dETF](https://github.com/Defi-3/dETF-Contract): A zkOracle-based fully onchain and decentralized ETF.
 - [Unic](https://twitter.com/viaprize/status/1711312453219524638): A decentralized identity platform, using zkOracle for onchain ML.
@@ -28,16 +30,22 @@ This includes the [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethere
 
 ## 🗺️ zkGraph Ecosystem
 
+_A List of zkGraphs Built by Hyper Oracle and Community._
+
 - [zkGraph Examples](https://github.com/hyperoracle/zkgraph/tree/b9fe1a6c2efd7e6a5793c47799da8745c1c748c4/example): A list of zkGraphs, including Uniswap Price Calculation, zkAutomation-based zkGraph, and multi-address based zkGraph. This is the implementation by Hyper Oracle.
 - [zkUsecases](https://github.com/LiRiu/zkUsecases): A list of zkGraphs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block. This is displayed on Hyper Oracle's [use case page](https://www.hyperoracle.io/app/cases).
-- [Marine](https://github.com/LiRiu/zkCompound/): A zkGraph for liquidation on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
+- [Marine](https://github.com/hyperoracle/marine/): A zkGraph for liquidation on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
 - [zkToken](https://github.com/hyperoracle/zkToken): A zkGraph as ERC20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
 
 ## 📜 [ERC-6150](https://eips.ethereum.org/EIPS/eip-6150) & [ERC-7007](https://eips.ethereum.org/EIPS/eip-7007)
 
+_Protocols Adopts Standards Contributed by Hyper Oracle._
+
 - [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): A ERC-7007-based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
 
 ## 🔧 Other Contribution by Hyper Oracle
+
+_Hyper Oracle's Contribution to General Web3, Blockchain, and Crypto Space._
 
 ### World Supercomputer
 
