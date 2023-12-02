@@ -44,7 +44,26 @@ _A List of zkGraphs Built by Hyper Oracle and Community._
 
 _Ideas to Build with zkOracle or zkGraph._
 
+| Idea                               | Value of Hyper Oracle                                                   | Difficulty | Additional Note                                                                                                                                                         |
+|------------------------------------|-------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dashboard for NFT Marketplaces     | Access Historical Trading Data of Blur, Looksrare, CryptoPunks, Memswap | 💥          |                                                                                                                                                                         |
+| Onchain DefiLlama                  | Access Historical Data of AAVE, Compound, Morpho                        | 💥          | Performs calculations on protocol inflow and outflow, TVL, protocol revenue (like cryptofee), protocol health ratio (like bad-debt dashboard), protocol yield for user. |
+| Onchain L2BEAT                     | Access Historical Data of L2's contract on L1, and Trustless Compute    | 💥          | Calculate TVL (Canonical, External, Native) of L2; Calculate TPS (via L2 blocks settled on L1) of L2.                                                                   |
+| zkGraphs for ERCs                  | Access Historical Data of Standardized ERCs, and Trustless Compute      | 🔥          | Build zkGraphs for standards such as ERC-20 (maybe also weird ERC-20s) and ERC-721.                                                                                     |
+| Onchain Price Oracle               | Trustless Compute of Pricing                                            | 💥          | Build price oracles like TWAP and TWMP, or even something like UTXOracle.                                                                                               |
+| zkGraphs as Public Goods Libraries | Trustless Compute of Algorithms                                         | 💥          | Build libraries such as SHA256.sol, or solidity-stringutils with zkGraph.                                                                                               |
+| Traditional Oracle Services        | Trustless Compute, and Automation                                       | 🌋          | Build VRF (Verifiable Random Function, maybe like zk-draw), VDF (Verifiable Delay Functions), FSS (Fair Sequencing Service).                                            |
+| Automation Apps                    | Trustless Compute, and Automation                                       | 🔥          | Implement auto-renewal of ENS, automated strategies, onchain liquidator keepers for DeFi protocols...                                                                   |
+| DeFi Protocols Remastered          | Trustless Compute of DeFi Logic, and Automation                         | 🌋          | Use zkGraphs to reimplement protocols like AAVE, Curve, Uniswap v3, or v4.                                                                                              |
+| Experiemental Games                | Trustless Compute of Game Logic                                         | 💥          | Implement games like etherquake and GameOfLife instead of pure onchain Solidity.                                                                                        |
+| Proof of Voting Power              | Access Historical `checkpoints`, and Trustless Compute                  | 🔥          |                                                                                                                                                                         |
+| Proof of Whale                     | Access Historical `balances` and Trustless Compute                      | 🔥          |                                                                                                                                                                         |
+| Proof of Approved                  | Access Historical `allowances`                                          | 🔥          |                                                                                                                                                                         |
+| Proof of Vesting                   | Access Historical Data of ERC-20                                        | 🔥          |                                                                                                                                                                         |
 
+*: Difficulty levels are from Eazy (🔥) -> Normal (💥) -> Advanced (🌋).
+
+Read more from Hyper Oracle's idea posts: [1](https://mirror.xyz/hyperoracleblog.eth/Tik3nBI9mw05Ql_aHKZqm4hNxfxaEQdDAKn7JKcx0xQ), [2](https://mirror.xyz/hyperoracleblog.eth/AG3tFPgesKw4d0VnwPIYjjoOzVSoc3R4chKcyY4s0ks).
 
 ## 📜 [ERC-6150](https://eips.ethereum.org/EIPS/eip-6150) & [ERC-7007](https://eips.ethereum.org/EIPS/eip-7007)
 
