@@ -84,7 +84,8 @@ Read more from Hyper Oracle's idea posts: [1](https://mirror.xyz/hyperoracleblog
 
 _Protocols Adopts Standards Contributed by Hyper Oracle._
 
-- [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): A ERC-7007-based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
+- [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): A ERC-7007 based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
+- [7007.studio](https://twitter.com/7007_studio): A ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 
 ## 🔧 Other Contribution by Hyper Oracle
 
