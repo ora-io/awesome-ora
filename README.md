@@ -30,6 +30,7 @@ _A Collection of Projects Using Hyper Oracle zkOracle._
 - [dETF](https://github.com/Defi-3/dETF-Contract): A zkOracle-based fully onchain and decentralized ETF.
 - [Unic](https://twitter.com/viaprize/status/1711312453219524638): A decentralized identity platform, using zkOracle for onchain ML.
 - [ZKredible](https://twitter.com/viaprize/status/1711312450405159377): A privacy-preserving and censorship-resistant credit record evaluation system, using zkOracle for onchain aggregation of zkML.
+- [zkKYC](https://github.com/hyperoracle/zkKYC-story-hackathon): A zkOracle that brings offchain kyc data to onchain Story Protocol. This project was [developed during Story Protocol Alpha Hackathon and won second place](https://twitter.com/StoryProtocol/status/1734259414591512932).
 
 ## 🗺️ zkGraph Ecosystem
 
