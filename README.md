@@ -27,10 +27,10 @@ Developers can leverage zkOracle's historical data access, and zkGraph's program
 _A Collection of Projects Using Hyper Oracle zkOracle._
 
 - [zkAMM](https://github.com/Defi-3/zkAMM-contracts): A zkOracle-based automated market maker that is fully scalable with unlimited computation resources.
-- [dETF](https://github.com/Defi-3/dETF-Contract): A zkOracle-based fully onchain and decentralized ETF.
+- [dETF](https://github.com/Defi-3/dETF-Contract): A zkOracle-based fully onchain and decentralized ETF protocol.
 - [Unic](https://twitter.com/viaprize/status/1711312453219524638): A decentralized identity platform, using zkOracle for onchain ML.
 - [ZKredible](https://twitter.com/viaprize/status/1711312450405159377): A privacy-preserving and censorship-resistant credit record evaluation system, using zkOracle for onchain aggregation of zkML.
-- [zkKYC](https://github.com/hyperoracle/zkKYC-story-hackathon): A zkOracle that brings offchain kyc data to onchain Story Protocol. This project was [developed during Story Protocol Alpha Hackathon and won second place](https://twitter.com/StoryProtocol/status/1734259414591512932).
+- [zkKYC](https://github.com/hyperoracle/zkKYC-story-hackathon): A zkOracle-based hook that brings offchain kyc data to onchain Story Protocol. This project was [developed during Story Protocol Alpha Hackathon and won second place](https://twitter.com/StoryProtocol/status/1734259414591512932).
 
 ## 🗺️ zkGraph Ecosystem
 
@@ -38,7 +38,7 @@ _A List of zkGraphs Built by Hyper Oracle and Community._
 
 - [zkGraph Examples](https://github.com/hyperoracle/zkgraph-cli/tree/main/packages/create-zkgraph/templates): A list of zkGraphs, including Uniswap Price Calculation, zkAutomation-based zkGraph, and multi-address based zkGraph. This is the implementation by Hyper Oracle.
 - [zkUsecases](https://github.com/LiRiu/zkUsecases): A list of zkGraphs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block. This is displayed on Hyper Oracle's [use case page](https://www.hyperoracle.io/app/cases).
-- [Marine](https://github.com/hyperoracle/marine/): A zkGraph for liquidation on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
+- [Marine](https://github.com/hyperoracle/marine): A zkGraph as liquidation protocol on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
 - [zkToken](https://github.com/hyperoracle/zkToken): A zkGraph as ERC20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
 - [Proof of Blacklist](https://github.com/varun-doshi/Proof-of-Blacklist-zkGraph): A zkGraph for tracking new blacklisted address of USDT.
 - [Proof of Ownership](https://github.com/varun-doshi/Proof-of-Ownership-zkGraph): A zkGraph that accesses historical ownership change of the Azuki NFT collection.
