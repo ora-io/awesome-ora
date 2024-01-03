@@ -40,6 +40,8 @@ _A List of zkGraphs Built by Hyper Oracle and Community._
 - [zkUsecases](https://github.com/LiRiu/zkUsecases): A list of zkGraphs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block. This is displayed on Hyper Oracle's [use case page](https://www.hyperoracle.io/app/cases).
 - [Marine](https://github.com/hyperoracle/marine/): A zkGraph for liquidation on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
 - [zkToken](https://github.com/hyperoracle/zkToken): A zkGraph as ERC20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
+- [Proof of Blacklist](https://github.com/varun-doshi/Proof-of-Blacklist-zkGraph): A zkGraph for tracking new blacklisted address of USDT.
+- [Proof of Ownership](https://github.com/varun-doshi/Proof-of-Ownership-zkGraph): A zkGraph that accesses historical ownership change of the Azuki NFT collection.
 
 ## 💡 Project Ideas
 
