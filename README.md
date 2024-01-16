@@ -43,6 +43,12 @@ _A List of zkGraphs Built by Hyper Oracle and Community._
 - [Proof of Blacklist](https://github.com/varun-doshi/Proof-of-Blacklist-zkGraph): A zkGraph for tracking new blacklisted address of USDT.
 - [Proof of Ownership](https://github.com/varun-doshi/Proof-of-Ownership-zkGraph): A zkGraph that accesses historical ownership change of the Azuki NFT collection.
 - [Proof Of Membership](https://github.com/HAPPYS1NGH/dd-member-zkgraph): A zkGraph that proves an address is a member of Developer DAO.
+- [Proof of Approved](https://github.com/rupam-04/proof-of-approved): A zkGraph that accesses historical approved amount of token.
+- [BAYC Hacked](https://github.com/arjanjohan/zkgraph-hacked-bayc): A zkGraph that tracks hacked BAYC by transfer event.
+- [Free Mints](https://github.com/arjanjohan/zkgraph-track-free-mints): A zkGraph that monitors free mints of NFT.
+- [Proof of Pool](https://github.com/agxmbhir/proof-of-pool): A zkGraph that tracks newly created Uniswap v3 pools.
+- [Proof of Bridge](https://github.com/agxmbhir/proof-of-bridge): A PoC of cross-chain bridge uses a zkGraph to bridge tokens from sepolia to goerli with zkp.
+- [Secure Watcher](https://github.com/HAPPYS1NGH/secure-watcher-zkgraph): A zkGraph that watches for activities which are similar to compromise of Private Key.
 
 ## 💡 Project Ideas
 
