@@ -49,6 +49,8 @@ _A List of zkGraphs Built by Hyper Oracle and Community._
 - [Proof of Pool](https://github.com/agxmbhir/proof-of-pool): A zkGraph that tracks newly created Uniswap v3 pools.
 - [Proof of Bridge](https://github.com/agxmbhir/proof-of-bridge): A PoC of cross-chain bridge uses a zkGraph to bridge tokens from sepolia to goerli with zkp.
 - [Secure Watcher](https://github.com/HAPPYS1NGH/secure-watcher-zkgraph): A zkGraph that watches for activities which are similar to compromise of Private Key.
+- [Proof of Mint](https://github.com/Gathin23/Proof-of-Mint-zkgraph): A zkGraph that tracks all the address that has minted DOP token on sepolia.
+- [Proof of Whale](https://github.com/Thirumurugan7/Proof-Of-Whale): A zkGraph that verifies if a wallet is a big player even if your funds or assets are compromised, as the whale status is confirmed by the address that initiated the event, not the recipient.
 
 ## 💡 Project Ideas
 
