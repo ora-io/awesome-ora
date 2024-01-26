@@ -7,12 +7,21 @@
   - [🌍 Overview](#-overview)
   - [🔮 zkOracle Ecosystem](#-zkoracle-ecosystem)
   - [🗺️ zkGraph Ecosystem](#️-zkgraph-ecosystem)
+    - [General](#general)
+    - [DeFi \& DEX \& MEV](#defi--dex--mev)
+    - [Onchain API Oracle](#onchain-api-oracle)
+    - [NFT](#nft)
+    - [Proof of X](#proof-of-x)
+    - [Libraries \& Utils](#libraries--utils)
+    - [Security](#security)
+    - [Others](#others)
   - [💡 Project Ideas](#-project-ideas)
   - [📜 ERC-6150 \& ERC-7007](#-erc-6150--erc-7007)
   - [🔧 Other Contribution by Hyper Oracle](#-other-contribution-by-hyper-oracle)
-    - [World Supercomputer:](#world-supercomputer)
-    - [Open Source Libraries:](#open-source-libraries)
-    - [Open Grant Contribution:](#open-grant-contribution)
+    - [World Supercomputer](#world-supercomputer)
+  - [Improvement Proposals](#improvement-proposals)
+    - [Open Source Libraries](#open-source-libraries)
+    - [Open Grant Contribution](#open-grant-contribution)
 
 ## 🌍 Overview
 
@@ -36,21 +45,59 @@ _A Collection of Projects Using Hyper Oracle zkOracle._
 
 _A List of zkGraphs Built by Hyper Oracle and Community._
 
+### General
+
 - [zkGraph Examples](https://github.com/hyperoracle/zkgraph-cli/tree/main/packages/create-zkgraph/templates): A list of zkGraphs, including Uniswap Price Calculation, zkAutomation-based zkGraph, and multi-address based zkGraph. This is the implementation by Hyper Oracle.
 - [zkUsecases](https://github.com/LiRiu/zkUsecases): A list of zkGraphs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block. This is displayed on Hyper Oracle's [use case page](https://www.hyperoracle.io/app/cases).
+
+### DeFi & DEX & MEV
+
 - [Marine](https://github.com/hyperoracle/marine): A zkGraph as liquidation protocol on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
 - [zkToken](https://github.com/hyperoracle/zkToken): A zkGraph as ERC20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
+- [Dex Vigil](https://github.com/issa-me-sush/dex-vigil-zkgraph): A zkGraph that detects anomalous trading behavior and possibly prevent exploits.
+- [Cross-chain Asset Transfer](https://github.com/issa-me-sush/cross-chain-asset-transfer): An example zkGraph implementation of cross-chain asset / token / credit transfer system.
+- [MEV Detection](https://github.com/guha-rahul/Proof-of-Sandwiched): A PoC zkGraph that proves a user's behavior such as `Swap` has been harmed by an MEV bot.
+- [BTC 2 ETH](https://github.com/Mingzhe-W/zkgraph/tree/main/Btc2EthConversionRate): A zkGraph that calculates for BTC to ETH conversion rate.
+- [zkInsurance](https://github.com/Mingzhe-W/zkgraph/tree/main/zkInsurrance): A zkGraph that auto-generates proofs for claiming insurance.
+- [zkSafeMixer](https://github.com/YolaYing/ZK-Tornado-Cash): A zkGraph that warns downstream contracts if there's blacklisted address's fund in the mixer.
+
+### Onchain API Oracle
+
+- [Onchain Price Oracle](https://github.com/YolaYing/Onchain-Price-Oracle): A zkGraph that implements TWAP oracle.
+
+### NFT
+
+- [BAYC Hacked](https://github.com/arjanjohan/zkgraph-hacked-bayc): A zkGraph that tracks hacked BAYC by transfer event.
+- [Free Mints](https://github.com/arjanjohan/zkgraph-track-free-mints): A zkGraph that monitors free mints of NFT.
+- [Proof of OG of Azuki NFT](https://github.com/guha-rahul/Proof-of-OG-of-Azuki-NFT): A zkGraph that proves the OG mint of Azuki NFT.
+- [Proof of Mint](https://github.com/Gathin23/Proof-of-Mint-zkgraph): A zkGraph that tracks all the address that has minted DOP token on sepolia.
+
+### Proof of X
+
+- [Proof of Pool](https://github.com/agxmbhir/proof-of-pool): A zkGraph that tracks newly created Uniswap v3 pools.
+- [Proof of Bridge](https://github.com/agxmbhir/proof-of-bridge): A PoC of cross-chain bridge uses a zkGraph to bridge tokens from sepolia to goerli with zkp.
+- [Proof of Whale](https://github.com/Thirumurugan7/Proof-Of-Whale): A zkGraph that verifies if a wallet is a big player even if your funds or assets are compromised, as the whale status is confirmed by the address that initiated the event, not the recipient.
 - [Proof of Blacklist](https://github.com/varun-doshi/Proof-of-Blacklist-zkGraph): A zkGraph for tracking new blacklisted address of USDT.
 - [Proof of Ownership](https://github.com/varun-doshi/Proof-of-Ownership-zkGraph): A zkGraph that accesses historical ownership change of the Azuki NFT collection.
 - [Proof Of Membership](https://github.com/HAPPYS1NGH/dd-member-zkgraph): A zkGraph that proves an address is a member of Developer DAO.
-- [Proof of Approved](https://github.com/rupam-04/proof-of-approved): A zkGraph that accesses historical approved amount of token.
-- [BAYC Hacked](https://github.com/arjanjohan/zkgraph-hacked-bayc): A zkGraph that tracks hacked BAYC by transfer event.
-- [Free Mints](https://github.com/arjanjohan/zkgraph-track-free-mints): A zkGraph that monitors free mints of NFT.
-- [Proof of Pool](https://github.com/agxmbhir/proof-of-pool): A zkGraph that tracks newly created Uniswap v3 pools.
-- [Proof of Bridge](https://github.com/agxmbhir/proof-of-bridge): A PoC of cross-chain bridge uses a zkGraph to bridge tokens from sepolia to goerli with zkp.
+- [Proof of Approved by rupam-04](https://github.com/rupam-04/proof-of-approved): A zkGraph that accesses historical approved amount of token.
+- [Proof of Approved by udhaykumarbala](https://github.com/udhaykumarbala/proof-of-approval): A zkGraph that accesses historical approved amount of token.
+- [Proof of Whale](https://github.com/Thirumurugan7/Proof-Of-Whale): A zkGraph that checks for a special "isWhale" event.
+- [Proof of New Player](https://github.com/Thirumurugan7/Proof-of-new-player): A zkGraph that checks for "NewPlayer" event.
+
+### Libraries & Utils
+
+- [zkGraph String Utils](https://github.com/udhaykumarbala/zkgraph-stringutils): A zkGraph that helps offload the string operation to offchain and gives the mechanism to prove the offline calculated values.
+- [zkGraph Math Utils](https://github.com/Gathin23/Math-zkgraph): A zkGraph that helps offload Math operations offchain and gives the mechanism to prove the offline calculated values.
+
+### Security
+
 - [Secure Watcher](https://github.com/HAPPYS1NGH/secure-watcher-zkgraph): A zkGraph that watches for activities which are similar to compromise of Private Key.
-- [Proof of Mint](https://github.com/Gathin23/Proof-of-Mint-zkgraph): A zkGraph that tracks all the address that has minted DOP token on sepolia.
-- [Proof of Whale](https://github.com/Thirumurugan7/Proof-Of-Whale): A zkGraph that verifies if a wallet is a big player even if your funds or assets are compromised, as the whale status is confirmed by the address that initiated the event, not the recipient.
+
+### Others
+
+- [Decentralized Moderation](https://github.com/issa-me-sush/decentralized-content-moderation): Content moderation system based on zkGraph for a decentralized social network or any kind of customized DAO or decentralized network/ecosystem.
+
 
 ## 💡 Project Ideas
 
