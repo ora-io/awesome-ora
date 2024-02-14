@@ -10,7 +10,6 @@
   - [💡 Project Ideas](#-project-ideas)
   - [📜 ERC-6150 \& ERC-7007](#-erc-6150--erc-7007)
   - [🔧 Other Contribution by Ora](#-other-contribution-by-ora)
-  - [Improvement Proposals](#improvement-proposals)
 
 ## 🌍 Overview
 
