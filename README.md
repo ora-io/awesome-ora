@@ -1,21 +1,34 @@
-# 🌈 Awesome Ora
+# 🌈 Awesome ORA
 
 ## 📑 Table of Contents
 
-- [🌈 Awesome Ora](#-awesome-ora)
+- [🌈 Awesome ORA](#-awesome-ora)
   - [📑 Table of Contents](#-table-of-contents)
   - [🌍 Overview](#-overview)
   - [🤖 AI Oracle CLE Ecosystem](#-ai-oracle-cle-ecosystem)
+    - [General](#general)
   - [🔮 ZK Oracle CLE Ecosystem](#-zk-oracle-cle-ecosystem)
+    - [General](#general-1)
+    - [DeFi \& DEX \& MEV](#defi--dex--mev)
+    - [Onchain API Oracle](#onchain-api-oracle)
+    - [NFT](#nft)
+    - [Proof of X](#proof-of-x)
+    - [Libraries \& Utils](#libraries--utils)
+    - [Security](#security)
+    - [Others](#others)
   - [💡 Project Ideas](#-project-ideas)
   - [📜 ERC-6150 \& ERC-7007](#-erc-6150--erc-7007)
-  - [🔧 Other Contribution by Ora](#-other-contribution-by-ora)
+  - [🔧 Other Contribution by ORA](#-other-contribution-by-ora)
+    - [World Supercomputer](#world-supercomputer)
+  - [Improvement Proposals](#improvement-proposals)
+    - [Open Source Libraries](#open-source-libraries)
+    - [Open Grant Contribution](#open-grant-contribution)
 
 ## 🌍 Overview
 
-This list focuses on the work related to the Ora ecosystem.
+This list focuses on the work related to the ORA ecosystem.
 
-This includes the [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethereum/15131) ecosystem, the CLE ecosystem, the ERC ecosystem co-authored by Ora, and other Ora contributions.
+This includes the AI Oracle (OAO, Onchain AI Oracle) and [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethereum/15131) ecosystem, the CLE ecosystem, the ERC ecosystem co-authored by ORA, and other ORA contributions.
 
 Developers can leverage zkOracle's historical data access, and CLE's programmable zkVM-powered trustless compute to build decentralized application with more data and more compute.
 
@@ -23,7 +36,9 @@ Developers can leverage zkOracle's historical data access, and CLE's programmabl
 
 _A Collection of CLEs Built on AI Oracle._
 
-Soon.
+### General
+
+- [AI Intent Engine](https://github.com/LiRiu/oaoie): An intent engine with OAO, leveraging onchain LlaMA2 to solve user intent in natural language into onchain actions (send, and swap).
 
 ## 🔮 ZK Oracle CLE Ecosystem
 
@@ -31,7 +46,7 @@ _A List of CLEs Built on ZK Oracle._
 
 ### General
 
-- [CLE Examples](https://github.com/hyperoracle/zkgraph-cli/tree/main/packages/create-zkgraph/templates): A list of CLEs, including Uniswap Price Calculation, zkAutomation-based CLE, and multi-address based CLE. This is the implementation by Ora.
+- [CLE Examples](https://github.com/hyperoracle/zkgraph-cli/tree/main/packages/create-zkgraph/templates): A list of CLEs, including Uniswap Price Calculation, zkAutomation-based CLE, and multi-address based CLE. This is the implementation by ORA.
 - [zkUsecases](https://www.hyperoracle.io/app/cases): A list of CLEs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block. This is displayed on Ora's [use case page](https://www.hyperoracle.io/app/cases).
 - [zkAMM](https://github.com/Defi-3/zkAMM-contracts): A zkOracle-based automated market maker that is fully scalable with unlimited computation resources.
 - [dETF](https://github.com/Defi-3/dETF-Contract): A zkOracle-based fully onchain and decentralized ETF protocol.
@@ -128,14 +143,14 @@ Read more from Ora's idea posts: [1](https://mirror.xyz/hyperoracleblog.eth/Tik3
 
 ## 📜 [ERC-6150](https://eips.ethereum.org/EIPS/eip-6150) & [ERC-7007](https://eips.ethereum.org/EIPS/eip-7007)
 
-_Protocols Adopts Standards Contributed by Ora._
+_Protocols Adopts Standards Contributed by ORA._
 
 - [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): A ERC-7007 based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
 - [7007.studio](https://twitter.com/7007_studio): A ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 
-## 🔧 Other Contribution by Ora
+## 🔧 Other Contribution by ORA
 
-_Ora's Contribution to General Web3, Blockchain, and Crypto Space._
+_ORA's Contribution to General Web3, Blockchain, and Crypto Space._
 
 ### World Supercomputer
 
