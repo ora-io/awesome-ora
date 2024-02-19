@@ -12,6 +12,7 @@
     - [DeFi \& DEX \& MEV](#defi--dex--mev)
     - [Onchain API Oracle](#onchain-api-oracle)
     - [NFT](#nft)
+    - [Game](#game)
     - [Proof of X](#proof-of-x)
     - [Libraries \& Utils](#libraries--utils)
     - [Security](#security)
@@ -75,6 +76,10 @@ _A List of CLEs Built on ZK Oracle._
 - [Free Mints](https://github.com/arjanjohan/zkgraph-track-free-mints): A CLE that monitors free mints of NFT.
 - [Proof of OG of Azuki NFT](https://github.com/guha-rahul/Proof-of-OG-of-Azuki-NFT): A CLE that proves the OG mint of Azuki NFT.
 - [Proof of Mint](https://github.com/Gathin23/Proof-of-Mint-zkgraph): A CLE that tracks all the address that has minted DOP token on sepolia.
+
+### Game
+
+- [Game Of Life](https://github.com/Mingzhe-W/gameOfLife): A game that implements Conway's Game of Life with game logic computed in zkOracle.
 
 ### Proof of X
 
