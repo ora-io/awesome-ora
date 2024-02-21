@@ -7,6 +7,7 @@
   - [🌍 Overview](#-overview)
   - [🤖 AI Oracle CLE Ecosystem](#-ai-oracle-cle-ecosystem)
     - [General](#general)
+    - [AIGC-NFT (ERC-7007)](#aigc-nft-erc-7007)
   - [🔮 ZK Oracle CLE Ecosystem](#-zk-oracle-cle-ecosystem)
     - [General](#general-1)
     - [DeFi \& DEX \& MEV](#defi--dex--mev)
@@ -18,7 +19,6 @@
     - [Security](#security)
     - [Others](#others)
   - [💡 Project Ideas](#-project-ideas)
-  - [📜 ERC-6150 \& ERC-7007](#-erc-6150--erc-7007)
   - [🔧 Other Contribution by ORA](#-other-contribution-by-ora)
     - [World Supercomputer](#world-supercomputer)
   - [Improvement Proposals](#improvement-proposals)
@@ -40,6 +40,11 @@ _A Collection of CLEs Built on AI Oracle._
 ### General
 
 - [AI Intent Engine](https://github.com/LiRiu/oaoie): An intent engine with OAO, leveraging onchain LlaMA2 to solve user intent in natural language into onchain actions (send, and swap).
+
+### AIGC-NFT ([ERC-7007](https://eips.ethereum.org/EIPS/eip-7007))
+
+- [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): A ERC-7007 based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
+- [7007.studio](https://twitter.com/7007_studio): A ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 
 ## 🔮 ZK Oracle CLE Ecosystem
 
@@ -145,13 +150,6 @@ _Ideas to Build with zkOracle or CLE._
 *: Difficulty levels are from Eazy (🔥) -> Normal (💥) -> Advanced (🌋).
 
 Read more from Ora's idea posts: [1](https://mirror.xyz/hyperoracleblog.eth/Tik3nBI9mw05Ql_aHKZqm4hNxfxaEQdDAKn7JKcx0xQ), [2](https://mirror.xyz/hyperoracleblog.eth/AG3tFPgesKw4d0VnwPIYjjoOzVSoc3R4chKcyY4s0ks).
-
-## 📜 [ERC-6150](https://eips.ethereum.org/EIPS/eip-6150) & [ERC-7007](https://eips.ethereum.org/EIPS/eip-7007)
-
-_Protocols Adopts Standards Contributed by ORA._
-
-- [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): A ERC-7007 based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
-- [7007.studio](https://twitter.com/7007_studio): A ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 
 ## 🔧 Other Contribution by ORA
 
