@@ -1,8 +1,8 @@
-# 🌈 Awesome ORA
+# ⃝ Awesome ORA
 
 ## 📑 Table of Contents
 
-- [🌈 Awesome ORA](#-awesome-ora)
+- [ ⃝ Awesome ORA](#-awesome-ora)
   - [📑 Table of Contents](#-table-of-contents)
   - [🌍 Overview](#-overview)
   - [🤖 AI Oracle CLE Ecosystem](#-ai-oracle-cle-ecosystem)
