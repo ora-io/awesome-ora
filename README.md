@@ -87,6 +87,7 @@ _A List of CLEs Built on ZK Oracle._
 
 ### Game
 
+- [ZKLife](https://github.com/YolaYing/ZKLife/tree/main?tab=readme-ov-file): A [full game](https://devfolio.co/projects/zklifezkenhanced-onchain-ai-gaming-d74f) that implements Conway's Game of Life with multiplayer mode and gaming AI.
 - [Game Of Life](https://github.com/Mingzhe-W/gameOfLife): A game that implements Conway's Game of Life with game logic computed in zkOracle.
 
 ### Proof of X
