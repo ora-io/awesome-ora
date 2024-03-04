@@ -47,6 +47,7 @@ _A Collection of CLEs Built on AI Oracle._
 - [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): A ERC-7007 based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
 - [7007.studio](https://twitter.com/7007_studio): A ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 - [Onchain AI NFT](https://github.com/varun-doshi/Onchain-AI-NFT): An onchain AI NFT project utilizing AI Oracle's Stable Diffusion to generate image NFT directly onchain. Complete tutorial [here](https://medium.com/@varun-doshi/bring-ai-on-chain-with-ora-protocol-b7a034d24182).
+- [OAOLimerick](https://github.com/Tokenseller-Leezi/OAOLimerick): A onchain AI Limerick NFT using AI Oracle's LlaMA2 for generating poet NFT directly onchain.
 
 ## 🔮 ZK Oracle CLE Ecosystem
 
