@@ -56,7 +56,7 @@ _A List of CLEs Built on ZK Oracle._
 
 ### General
 
-- [CLE Examples](https://github.com/hyperoracle/zkgraph-cli/tree/main/packages/create-zkgraph/templates): A list of CLEs, including Uniswap Price Calculation, zkAutomation-based CLE, and multi-address based CLE. This is the implementation by ORA.
+- [CLE Examples](https://github.com/ora-io/cle/tree/main/templates): A list of CLEs, including Uniswap Price Calculation, zkAutomation-based CLE, and multi-address based CLE. This is the implementation by ORA.
 - [zkUsecases](https://github.com/LiRiu/zkUsecases/tree/norman/example): A list of CLEs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block.
 - [zkAMM](https://github.com/Defi-3/zkAMM-contracts): A zkOracle-based automated market maker that is fully scalable with unlimited computation resources.
 - [dETF](https://github.com/Defi-3/dETF-Contract): A zkOracle-based fully onchain and decentralized ETF protocol.
