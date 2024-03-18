@@ -42,6 +42,10 @@ _A Collection of CLEs Built on AI Oracle._
 - [Prompt](https://github.com/ora-io/OAO/blob/main/contracts/Prompt.sol): A simple CLE that uses OAO for LLM responses.
 - [AI Intent Engine](https://github.com/LiRiu/oaoie): An intent engine with OAO, leveraging onchain LlaMA2 to solve user intent in natural language into onchain actions (send, and swap).
 
+### DeFi
+
+- [AI NFT Bot](https://github.com/cong2480/AI_NFT_bot): A pricing engine for NFT assited with onchain AI. [Built during ETHDenver](https://devpost.com/software/llm-assisted-valuation-based-nft-trading-bot).
+
 ### AIGC-NFT ([ERC-7007](https://eips.ethereum.org/EIPS/eip-7007))
 
 - [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): A ERC-7007 based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
