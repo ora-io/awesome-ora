@@ -39,6 +39,7 @@ _A Collection of CLEs Built on AI Oracle._
 
 ### General
 
+- [Humm Protocol](https://twitter.com/hummprotocol): An AI-based protocol for AI ownership and monetization.
 - [Prompt](https://github.com/ora-io/OAO/blob/main/contracts/Prompt.sol): A simple CLE that uses OAO for LLM responses.
 - [AI Intent Engine](https://github.com/LiRiu/oaoie): An intent engine with OAO, leveraging onchain LlaMA2 to solve user intent in natural language into onchain actions (send, and swap).
 
