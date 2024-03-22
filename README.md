@@ -49,11 +49,12 @@ _A Collection of CLEs Built on AI Oracle._
 
 ### AIGC-NFT ([ERC-7007](https://eips.ethereum.org/EIPS/eip-7007))
 
-- [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): A ERC-7007 based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
-- [7007.studio](https://twitter.com/7007_studio): A ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
+- [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): An ERC-7007 based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
+- [7007](https://twitter.com/lab7007): An ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 - [Onchain AI NFT](https://github.com/varun-doshi/Onchain-AI-NFT): An onchain AI NFT project utilizing AI Oracle's Stable Diffusion to generate image NFT directly onchain. Complete tutorial [here](https://medium.com/@varun-doshi/bring-ai-on-chain-with-ora-protocol-b7a034d24182).
 - [OAOLimerick](https://github.com/Tokenseller-Leezi/OAOLimerick): A onchain AI Limerick NFT using AI Oracle's LlaMA2 for generating poet NFT directly onchain.
 - [Graviola NFT](https://github.com/el-tumero/graviola): An onchain NFT collection with minimalistic portraits of fictional characters, like [this](https://ipfs.io/ipfs/Qmf9vrmTxYUvDN4tjckpQAD9QCr3Ae5sm24qiXkGpN7kMj).
+- [ABC-ORA](https://github.com/Gathin23/abc-ora): An ERC-7007 based AIGC music NFT project, using AI Oracle's LLM to generate music notes and mint the piece into NFT.
 
 ## 🔮 ZK Oracle CLE Ecosystem
 
@@ -72,7 +73,7 @@ _A List of CLEs Built on ZK Oracle._
 ### DeFi & DEX & MEV
 
 - [Marine](https://github.com/hyperoracle/marine): A CLE as liquidation protocol on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
-- [zkToken](https://github.com/hyperoracle/zkToken): A CLE as ERC20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
+- [zkToken](https://github.com/hyperoracle/zkToken): A CLE as ERC-20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
 - [Dex Vigil](https://github.com/issa-me-sush/dex-vigil-zkgraph): A CLE that detects anomalous trading behavior and possibly prevent exploits.
 - [Cross-chain Asset Transfer](https://github.com/issa-me-sush/cross-chain-asset-transfer): An example CLE implementation of cross-chain asset / token / credit transfer system.
 - [MEV Detection](https://github.com/guha-rahul/Proof-of-Sandwiched): A PoC CLE that proves a user's behavior such as `Swap` has been harmed by an MEV bot.
@@ -164,6 +165,12 @@ Read more from Ora's idea posts: [1](https://mirror.xyz/hyperoracleblog.eth/Tik3
 ## 🔧 Other Contribution by ORA
 
 _ORA's Contribution to General Web3, Blockchain, and Crypto Space._
+
+### Researches & Development
+
+- [zkML: keras2circom](https://github.com/ora-io/keras2circom)
+- [opML: Optimistic Machine Learning](https://arxiv.org/abs/2401.17555)
+- [opp/ai: Optimistic Privacy-Preserving AI on Blockchain](https://arxiv.org/abs/2402.15006)
 
 ### World Supercomputer
 
