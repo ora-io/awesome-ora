@@ -53,8 +53,8 @@ _A Collection of CLEs Built on AI Oracle._
 - [7007](https://twitter.com/lab7007): An ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 - [Onchain AI NFT](https://github.com/varun-doshi/Onchain-AI-NFT): An onchain AI NFT project utilizing AI Oracle's Stable Diffusion to generate image NFT directly onchain. Complete tutorial [here](https://medium.com/@varun-doshi/bring-ai-on-chain-with-ora-protocol-b7a034d24182).
 - [OAOLimerick](https://github.com/Tokenseller-Leezi/OAOLimerick): A onchain AI Limerick NFT using AI Oracle's LlaMA2 for generating poet NFT directly onchain.
-- [Graviola NFT](https://github.com/el-tumero/graviola): An onchain NFT collection with minimalistic portraits of fictional characters, like [this](https://ipfs.io/ipfs/Qmf9vrmTxYUvDN4tjckpQAD9QCr3Ae5sm24qiXkGpN7kMj).
-- [ABC-ORA](https://github.com/Gathin23/abc-ora): An ERC-7007 based AIGC music NFT project, using AI Oracle's LLM to generate music notes and mint the piece into NFT.
+- [Graviola NFT](https://github.com/el-tumero/graviola): An onchain NFT collection with minimalistic portraits of fictional characters. [Built during ETHDenver](https://devpost.com/software/awdawdawdw).
+- [ABC-ORA](https://github.com/Gathin23/abc-ora): An ERC-7007 based AIGC music NFT project, using AI Oracle's LLM to generate music notes and mint the piece into NFT. [Built during ETHDenver](https://devpost.com/software/abc-ora).
 
 ## 🔮 ZK Oracle CLE Ecosystem
 
