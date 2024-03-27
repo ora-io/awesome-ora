@@ -68,12 +68,12 @@ _A List of CLEs Built on ZK Oracle._
 - [dETF](https://github.com/Defi-3/dETF-Contract): A zkOracle-based fully onchain and decentralized ETF protocol.
 - [Unic](https://twitter.com/viaprize/status/1711312453219524638): A decentralized identity platform, using zkOracle for onchain ML.
 - [ZKredible](https://twitter.com/viaprize/status/1711312450405159377): A privacy-preserving and censorship-resistant credit record evaluation system, using zkOracle for onchain aggregation of zkML.
-- [zkKYC](https://github.com/hyperoracle/zkKYC-story-hackathon): A zkOracle-based hook that brings offchain kyc data to onchain Story Protocol. This project was [developed during Story Protocol Alpha Hackathon and won second place](https://twitter.com/StoryProtocol/status/1734259414591512932).
+- [zkKYC](https://github.com/ora-io/zkKYC-story-hackathon): A zkOracle-based hook that brings offchain kyc data to onchain Story Protocol. This project was [developed during Story Protocol Alpha Hackathon and won second place](https://twitter.com/StoryProtocol/status/1734259414591512932).
 
 ### DeFi & DEX & MEV
 
-- [Marine](https://github.com/hyperoracle/marine): A CLE as liquidation protocol on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
-- [zkToken](https://github.com/hyperoracle/zkToken): A CLE as ERC-20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
+- [Marine](https://github.com/ora-io/marine): A CLE as liquidation protocol on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
+- [zkToken](https://github.com/ora-io/zkToken): A CLE as ERC-20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
 - [Dex Vigil](https://github.com/issa-me-sush/dex-vigil-zkgraph): A CLE that detects anomalous trading behavior and possibly prevent exploits.
 - [Cross-chain Asset Transfer](https://github.com/issa-me-sush/cross-chain-asset-transfer): An example CLE implementation of cross-chain asset / token / credit transfer system.
 - [MEV Detection](https://github.com/guha-rahul/Proof-of-Sandwiched): A PoC CLE that proves a user's behavior such as `Swap` has been harmed by an MEV bot.
@@ -128,7 +128,7 @@ _A List of CLEs Built on ZK Oracle._
 
 _Ideas to Build with zkOracle or CLE._
 
-| Idea                                       | Value of Ora                                                   | Difficulty | Additional Note                                                                                                                                          |
+| Idea                                       | Value of ORA                                                   | Difficulty | Additional Note                                                                                                                                          |
 |--------------------------------------------|-------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dashboard for NFT Marketplaces             | Access Historical Trading Data of Blur, Looksrare, CryptoPunks, Memswap | 💥          |                                                                                                                                                          |
 | Onchain DefiLlama                          | Access Historical Data of AAVE, Compound, Morpho                        | 💥          | Performs calculations on protocol inflow and outflow, TVL, protocol revenue, protocol health ratio, protocol yield for user.                             |
