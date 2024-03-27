@@ -29,7 +29,7 @@
 
 This list focuses on the work related to the ORA ecosystem.
 
-This includes the AI Oracle (OAO, Onchain AI Oracle) and [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethereum/15131) ecosystem, the CLE ecosystem, the ERC ecosystem co-authored by ORA, and other ORA contributions.
+This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablog.eth/qLBIR_yxmpFJ4dg5p5Sn8Wz46aQDTG1jCW8myeE7zZ8) and [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethereum/15131) ecosystem, the CLE ecosystem, the ERC ecosystem co-authored by ORA, and other ORA contributions.
 
 Developers can leverage zkOracle's historical data access, and CLE's programmable zkVM-powered trustless compute to build decentralized application with more data and more compute.
 
@@ -171,6 +171,7 @@ _ORA's Contribution to General Web3, Blockchain, and Crypto Space._
 - [zkML: keras2circom](https://github.com/ora-io/keras2circom)
 - [opML: Optimistic Machine Learning](https://arxiv.org/abs/2401.17555)
 - [opp/ai: Optimistic Privacy-Preserving AI on Blockchain](https://arxiv.org/abs/2402.15006)
+- [IMO: Initial Model Offering](https://mirror.xyz/orablog.eth/xYMD27tN23ppbKCluB9faytF_W6M1hKXTuKcfkm3D50)
 
 ### World Supercomputer
 
