@@ -19,6 +19,8 @@
     - [Security](#security)
     - [Others](#others)
   - [💡 Project Ideas](#-project-ideas)
+    - [AI Oracle](#ai-oracle-ideas)
+    - [zkOracle](#zkoracle-ideas)
   - [🔧 Other Contribution by ORA](#-other-contribution-by-ora)
     - [World Supercomputer](#world-supercomputer)
   - [Improvement Proposals](#improvement-proposals)
@@ -126,7 +128,37 @@ _A List of CLEs Built on ZK Oracle._
 
 ## 💡 Project Ideas
 
-_Ideas to Build with zkOracle or CLE._
+_Ideas to Build with AI Oracle or zkOracle._
+
+### AI Oracle Ideas
+
+| Idea                                  | Model in ORA OAO (+ Other Tech Stack)                                |
+|---------------------------------------|----------------------------------------------------------------------|
+| Predictor and Analyzer                | Any                                                                  |
+| Asset Pricing                         | Financial Models                                                     |
+| Simulation                            | LLM or Application-Specific Models                                   |
+| Credit/Risk Analyzer                  | LLM or Financial Models                                              |
+| Sentiment Analysis                    | LLM or Application-Specific Models                                   |
+| Trading Bot Wif MEV                   | Financial Models (+ Flashbots SUAVE stack)                           |
+| Aggregator                            | Financial Models                                                     |
+| "Point Guard"                         | Financial Models                                                     |
+| Copy-trading                          | Financial Models                                                     |
+| AIGC-NFT (Pure, Loot-style, Remixing) | Text2Image or Text2Video Models (+ Prompt Engineering / Fine-tuning) |
+| AI as Game Moderator                  | LLM or Application-Specific Models                                   |
+| AI as Governor                        | LLM or Application-Specific Models                                   |
+| AI as NPC                             | LLM or Application-Specific Models                                   |
+| AI as Opponent                        | LLM or Application-Specific Models                                   |
+| AI as Counterparty                    | LLM or Application-Specific Models                                   |
+| Agent for Whale's Governance          | LLM or Application-Specific Models                                   |
+| Content Moderator                     | LLM                                                                  |
+| Code Generator                        | LLM                                                                  |
+| Security Gadget                       | LLM or Application-Specific Models                                   |
+| Bring Your Own Model                  | / (+ Use opML to Integrate New Models into OAO)                      |
+| Rebuild Everything                    | Any (+ Rebuild All Protocols with AI)                                |
+
+Read more from ORA's idea posts on AI Oracle: [1](https://mirror.xyz/orablog.eth/WhcZyqKeFjcvkKskedBbv8Jrzt5WEmL5JYuUte3NO3w).
+
+### zkOracle Ideas
 
 | Idea                                       | Value of ORA                                                   | Difficulty | Additional Note                                                                                                                                          |
 |--------------------------------------------|-------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -160,7 +192,7 @@ _Ideas to Build with zkOracle or CLE._
 
 *: Difficulty levels are from Eazy (🔥) -> Normal (💥) -> Advanced (🌋).
 
-Read more from Ora's idea posts: [1](https://mirror.xyz/hyperoracleblog.eth/Tik3nBI9mw05Ql_aHKZqm4hNxfxaEQdDAKn7JKcx0xQ), [2](https://mirror.xyz/hyperoracleblog.eth/AG3tFPgesKw4d0VnwPIYjjoOzVSoc3R4chKcyY4s0ks).
+Read more from ORA's idea posts on zkOracle: [1](https://mirror.xyz/hyperoracleblog.eth/Tik3nBI9mw05Ql_aHKZqm4hNxfxaEQdDAKn7JKcx0xQ), [2](https://mirror.xyz/hyperoracleblog.eth/AG3tFPgesKw4d0VnwPIYjjoOzVSoc3R4chKcyY4s0ks).
 
 ## 🔧 Other Contribution by ORA
 
