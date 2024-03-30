@@ -37,6 +37,12 @@ This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablo
 
 _A Collection of Projects Built on AI Oracle._
 
+### CLEs (Models)
+
+- Grok: A generative artificial intelligence chatbot developed by xAI, based on a large language model.
+- LlaMA 2: A state-of-the-art large language model for coding.
+- Stable Diffusion: A deep learning, text-to-image model released in 2022 based on diffusion techniques.
+
 ### Example
 
 - [Prompt](https://github.com/ora-io/OAO/blob/main/contracts/Prompt.sol): A simple smart contract that uses OAO for LLM responses.
