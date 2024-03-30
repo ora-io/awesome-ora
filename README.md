@@ -5,7 +5,7 @@
 - [ ⃝ Awesome ORA](#-awesome-ora)
   - [📑 Table of Contents](#-table-of-contents)
   - [🌍 Overview](#-overview)
-  - [🤖 AI Oracle CLE Ecosystem](#-ai-oracle-cle-ecosystem)
+  - [🤖 AI Oracle Ecosystem](#-ai-oracle-ecosystem)
     - [General](#general)
     - [AIGC-NFT (ERC-7007)](#aigc-nft-erc-7007)
   - [🔮 ZK Oracle CLE Ecosystem](#-zk-oracle-cle-ecosystem)
@@ -31,19 +31,22 @@
 
 This list focuses on the work related to the ORA ecosystem.
 
-This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablog.eth/qLBIR_yxmpFJ4dg5p5Sn8Wz46aQDTG1jCW8myeE7zZ8) and [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethereum/15131) ecosystem, the CLE ecosystem, the ERC ecosystem co-authored by ORA, and other ORA contributions.
+This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablog.eth/qLBIR_yxmpFJ4dg5p5Sn8Wz46aQDTG1jCW8myeE7zZ8) and [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethereum/15131) ecosystem, the ERC ecosystem co-authored by ORA, and other ORA contributions.
 
-Developers can leverage zkOracle's historical data access, and CLE's programmable zkVM-powered trustless compute to build decentralized application with more data and more compute.
+## 🤖 AI Oracle Ecosystem
 
-## 🤖 AI Oracle CLE Ecosystem
+_A Collection of Projects Built on AI Oracle._
 
-_A Collection of CLEs Built on AI Oracle._
+### Example
+
+- [Prompt](https://github.com/ora-io/OAO/blob/main/contracts/Prompt.sol): A simple smart contract that uses OAO for LLM responses.
+- [SimplePrompt](https://github.com/ora-io/OAO/blob/main/contracts/SimplePrompt.sol): A simpler, event-only and gas-efficient smart contract that uses OAO for LLM responses.
 
 ### General
 
 - [Humm Protocol](https://twitter.com/hummprotocol): An AI-based protocol for AI ownership and monetization.
-- [Prompt](https://github.com/ora-io/OAO/blob/main/contracts/Prompt.sol): A simple CLE that uses OAO for LLM responses.
-- [AI Intent Engine](https://github.com/LiRiu/oaoie): An intent engine with OAO, leveraging onchain LlaMA2 to solve user intent in natural language into onchain actions (send, and swap).
+- [AI Intent Engine](https://github.com/LiRiu/oaoie): An intent engine with OAO, leveraging onchain LlaMA2 to solve user intent in natural language into onchain actions (send, and swap). Also a fork called [COCOA](https://github.com/ailuropodaWu/ethtaipei2024) for cross-chain usage [built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4wseee0knky5017s517lk3/idea).
+- [Grok vs Llama](https://github.com/socathie/grok-vs-llama): An Onchain AI vs Onchain AI project. In this project, LlaMA2 monitors whether Grok is in a Glitch state (related: [AI Mirror Test](https://twitter.com/joshwhiton/status/1770870738863415500)), and if so, the user who initiated the AI request is rewarded with a bounty for finding Grok's "weakness". [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3sufsj0imuw201g0peq4s1/idea).
 
 ### DeFi
 
@@ -57,6 +60,17 @@ _A Collection of CLEs Built on AI Oracle._
 - [OAOLimerick](https://github.com/Tokenseller-Leezi/OAOLimerick): A onchain AI Limerick NFT using AI Oracle's LlaMA2 for generating poet NFT directly onchain.
 - [Graviola NFT](https://github.com/el-tumero/graviola): An onchain NFT collection with minimalistic portraits of fictional characters. [Built during ETHDenver](https://devpost.com/software/awdawdawdw).
 - [ABC-ORA](https://github.com/Gathin23/abc-ora): An ERC-7007 based AIGC music NFT project, using AI Oracle's LLM to generate music notes and mint the piece into NFT. [Built during ETHDenver](https://devpost.com/software/abc-ora).
+- [AIME](https://github.com/AIME-Web3/AIME): An ERC-7007 compatible AI avatar generation dApp. [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu46p1ai0j1owc01k3ivvjm4/idea).
+- [PS 6](https://github.com/flyinglimao/ETHTaipei2024): An AI-generated story NFT protocol. [Built during ETHDenver](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu2t3rkl0hsuwc016f2dzes3/idea).
+
+### Security
+
+- [InsORAnce](https://github.com/ethTaipei2024/insORAnce): An insurance protocol for DeFi that utilizes AI Oracle for evaluating insurance rules and conditions, and zkAutomation for automated hacking detection. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3x7hrz0ioyw201x5jhtvkq/idea).
+- [AGI (Artificial Guarding Intelligence)](https://github.com/LiRiu/OAOPause): A prototype of circuit breaker for smart contract based on AI-powered simulation of protocol security. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4sf7s30k0cwc019pwduzgj/idea).
+
+### Infrastructure
+
+- [gonnx](https://github.com/alan890104/mlgo): A framework for converting ONNX to MLGO for better opML developer experience and AI Oracle model integration. [Build during ETHDenver](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4iw0yc0jnawc01egwdglx8/idea).
 
 ## 🔮 ZK Oracle CLE Ecosystem
 
@@ -82,6 +96,7 @@ _A List of CLEs Built on ZK Oracle._
 - [BTC 2 ETH](https://github.com/Mingzhe-W/zkgraph/tree/main/Btc2EthConversionRate): A CLE that calculates for BTC to ETH conversion rate.
 - [zkInsurance](https://github.com/Mingzhe-W/zkgraph/tree/main/zkInsurrance): A CLE that auto-generates proofs for claiming insurance.
 - [zkSafeMixer](https://github.com/YolaYing/ZK-Tornado-Cash): A CLE that warns downstream contracts if there's blacklisted address's fund in the mixer.
+- [Kubera](https://github.com/Kubera-ETHTaipei): A CLE that implements verifiable on-chain credit score system. [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4lm9k60kbcy501rxfdylu4/idea).
 
 ### Onchain API Oracle
 
@@ -125,7 +140,6 @@ _A List of CLEs Built on ZK Oracle._
 
 - [Decentralized Moderation](https://github.com/issa-me-sush/decentralized-content-moderation): Content moderation system based on CLE for a decentralized social network or any kind of customized DAO or decentralized network/ecosystem.
 
-
 ## 💡 Project Ideas
 
 _Ideas to Build with AI Oracle or zkOracle._
@@ -139,6 +153,7 @@ _Ideas to Build with AI Oracle or zkOracle._
 | Simulation                            | LLM or Application-Specific Models                                   |
 | Credit/Risk Analyzer                  | LLM or Financial Models                                              |
 | Sentiment Analysis                    | LLM or Application-Specific Models                                   |
+| Judge of Anything based on Rules*     | LLM                                                                  |
 | Trading Bot Wif MEV                   | Financial Models (+ Flashbots SUAVE stack)                           |
 | Aggregator                            | Financial Models                                                     |
 | "Point Guard"                         | Financial Models                                                     |
@@ -157,6 +172,8 @@ _Ideas to Build with AI Oracle or zkOracle._
 | Rebuild Everything                    | Any (+ Rebuild All Protocols with AI)                                |
 
 Read more from ORA's idea posts on AI Oracle: [1](https://mirror.xyz/orablog.eth/WhcZyqKeFjcvkKskedBbv8Jrzt5WEmL5JYuUte3NO3w).
+
+*: Based on [InsORAnce](https://github.com/ethTaipei2024/insORAnce) idea, LLM can be a judge / verifier of anything. In InsORAnce, LLM judges if insurance should be payed out based on a protocol's hack (truth) and given rules defining a hack (pre-made template / rule). Actually, the truth and pre-made rule can also be: any onchain events (og wallet moves ETH), and even offchain event. So that the InsORAnce idea can be expanded to insurance for anything onchain + offchain.
 
 ### zkOracle Ideas
 
