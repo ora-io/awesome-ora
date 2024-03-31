@@ -60,13 +60,11 @@ _A Collection of Projects Built on AI Oracle._
 
 ### AIGC-NFT ([ERC-7007](https://eips.ethereum.org/EIPS/eip-7007))
 
-- [ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r): An ERC-7007 based AIGC-NFT project. This utilizes genetic AI to breed new NFT images.
 - [7007](https://twitter.com/lab7007): An ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 - [Onchain AI NFT](https://github.com/varun-doshi/Onchain-AI-NFT): An onchain AI NFT project utilizing AI Oracle's Stable Diffusion to generate image NFT directly onchain. Complete tutorial [here](https://medium.com/@varun-doshi/bring-ai-on-chain-with-ora-protocol-b7a034d24182).
 - [OAOLimerick](https://github.com/Tokenseller-Leezi/OAOLimerick): A onchain AI Limerick NFT using AI Oracle's LlaMA2 for generating poet NFT directly onchain.
 - [Graviola NFT](https://github.com/el-tumero/graviola): An onchain NFT collection with minimalistic portraits of fictional characters. [Built during ETHDenver](https://devpost.com/software/awdawdawdw).
 - [ABC-ORA](https://github.com/Gathin23/abc-ora): An ERC-7007 based AIGC music NFT project, using AI Oracle's LLM to generate music notes and mint the piece into NFT. [Built during ETHDenver](https://devpost.com/software/abc-ora).
-- [AIME](https://github.com/AIME-Web3/AIME): An ERC-7007 compatible AI avatar generation dApp. [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu46p1ai0j1owc01k3ivvjm4/idea).
 - [PS 6](https://github.com/flyinglimao/ETHTaipei2024): An AI-generated story NFT protocol. [Built during ETHDenver](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu2t3rkl0hsuwc016f2dzes3/idea).
 
 ### Security
