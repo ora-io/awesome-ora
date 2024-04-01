@@ -58,7 +58,7 @@ _A Collection of Projects Built on AI Oracle._
 
 - [AI NFT Bot](https://github.com/cong2480/AI_NFT_bot): A pricing engine for NFT assited with onchain AI. [Built during ETHDenver](https://devpost.com/software/llm-assisted-valuation-based-nft-trading-bot).
 
-### AIGC-NFT ([ERC-7007](https://eips.ethereum.org/EIPS/eip-7007))
+### AIGC-NFT
 
 - [7007](https://twitter.com/lab7007): An ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 - [Onchain AI NFT](https://github.com/varun-doshi/Onchain-AI-NFT): An onchain AI NFT project utilizing AI Oracle's Stable Diffusion to generate image NFT directly onchain. Complete tutorial [here](https://medium.com/@varun-doshi/bring-ai-on-chain-with-ora-protocol-b7a034d24182).
@@ -235,7 +235,7 @@ _ORA's Contribution to General Web3, Blockchain, and Crypto Space._
 ## Improvement Proposals
 
 - [Ethereum/ERC-6150](https://eips.ethereum.org/EIPS/eip-6150)
-- [Ethereum/ERC-7007](https://eips.ethereum.org/EIPS/eip-7007)
+- [Ethereum/ERC-7007](https://eips.ethereum.org/EIPS/eip-7007), and ecosystem ([ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r) and [AIME](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu46p1ai0j1owc01k3ivvjm4/idea))
 - [Celestia/CIP-5](https://github.com/celestiaorg/CIPs/blob/main/cips/cip-5.md)
 
 ### Open Source Libraries
