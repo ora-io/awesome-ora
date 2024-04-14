@@ -64,8 +64,8 @@ _A Collection of Projects Built on AI Oracle._
 - [Onchain AI NFT](https://github.com/varun-doshi/Onchain-AI-NFT): An onchain AI NFT project utilizing AI Oracle's Stable Diffusion to generate image NFT directly onchain. Complete tutorial [here](https://medium.com/@varun-doshi/bring-ai-on-chain-with-ora-protocol-b7a034d24182).
 - [OAOLimerick](https://github.com/Tokenseller-Leezi/OAOLimerick): A onchain AI Limerick NFT using AI Oracle's LlaMA2 for generating poet NFT directly onchain.
 - [Graviola NFT](https://github.com/el-tumero/graviola): An onchain NFT collection with minimalistic portraits of fictional characters. [Built during ETHDenver](https://devpost.com/software/awdawdawdw).
-- [ABC-ORA](https://github.com/Gathin23/abc-ora): An ERC-7007 based AIGC music NFT project, using AI Oracle's LLM to generate music notes and mint the piece into NFT. [Built during ETHDenver](https://devpost.com/software/abc-ora).
-- [PS 6](https://github.com/flyinglimao/ETHTaipei2024): An AI-generated story NFT protocol. [Built during ETHDenver](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu2t3rkl0hsuwc016f2dzes3/idea).
+- [ABC-ORA](https://github.com/Gathin23/abc-ora): An ERC-7007 based AIGC music NFT project, using AI Oracle's LLM to generate music notes and mint the piece into NFT. [Built during ETHTaipei](https://devpost.com/software/abc-ora).
+- [PS 6](https://github.com/flyinglimao/ETHTaipei2024): An AI-generated story NFT protocol. [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu2t3rkl0hsuwc016f2dzes3/idea).
 
 ### Security
 
@@ -74,7 +74,7 @@ _A Collection of Projects Built on AI Oracle._
 
 ### Infrastructure
 
-- [gonnx](https://github.com/alan890104/mlgo): A framework for converting ONNX to MLGO for better opML developer experience and AI Oracle model integration. [Build during ETHDenver](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4iw0yc0jnawc01egwdglx8/idea).
+- [gonnx](https://github.com/alan890104/mlgo): A framework for converting ONNX to MLGO for better opML developer experience and AI Oracle model integration. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4iw0yc0jnawc01egwdglx8/idea).
 
 ## 🔮 ZK Oracle CLE Ecosystem
 
