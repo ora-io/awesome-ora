@@ -56,13 +56,13 @@ _A Collection of Projects Built on AI Oracle._
 
 ### DeFi
 
-- [AI NFT Bot](https://github.com/cong2480/AI_NFT_bot): A pricing engine for NFT assited with onchain AI. [Built during ETHDenver](https://devpost.com/software/llm-assisted-valuation-based-nft-trading-bot).
+- [AI NFT Bot](https://github.com/cong2480/AI_NFT_bot): A pricing engine for NFT assisted with onchain AI. [Built during ETHDenver](https://devpost.com/software/llm-assisted-valuation-based-nft-trading-bot).
 
 ### AIGC-NFT
 
 - [7007](https://twitter.com/lab7007): An ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
 - [Onchain AI NFT](https://github.com/varun-doshi/Onchain-AI-NFT): An onchain AI NFT project utilizing AI Oracle's Stable Diffusion to generate image NFT directly onchain. Complete tutorial [here](https://medium.com/@varun-doshi/bring-ai-on-chain-with-ora-protocol-b7a034d24182).
-- [OAOLimerick](https://github.com/Tokenseller-Leezi/OAOLimerick): A onchain AI Limerick NFT using AI Oracle's LlaMA2 for generating poet NFT directly onchain.
+- [OAOLimerick](https://github.com/Tokenseller-Leezi/OAOLimerick): An onchain AI Limerick NFT using AI Oracle's LlaMA2 for generating poet NFT directly onchain.
 - [Graviola NFT](https://github.com/el-tumero/graviola): An onchain NFT collection with minimalistic portraits of fictional characters. [Built during ETHDenver](https://devpost.com/software/awdawdawdw).
 - [ABC-ORA](https://github.com/Gathin23/abc-ora): An ERC-7007 based AIGC music NFT project, using AI Oracle's LLM to generate music notes and mint the piece into NFT. [Built during ETHTaipei](https://devpost.com/software/abc-ora).
 - [PS 6](https://github.com/flyinglimao/ETHTaipei2024): An AI-generated story NFT protocol. [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu2t3rkl0hsuwc016f2dzes3/idea).
@@ -93,8 +93,8 @@ _A List of CLEs Built on ZK Oracle._
 ### DeFi & DEX & MEV
 
 - [Marine](https://github.com/ora-io/marine): A CLE as liquidation protocol on Compound Protocol. This is tracking 15+ addresses, and 90+ events at the same time.
-- [zkToken](https://github.com/ora-io/zkToken): A CLE as ERC-20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issue an alert signal.
-- [Dex Vigil](https://github.com/issa-me-sush/dex-vigil-zkgraph): A CLE that detects anomalous trading behavior and possibly prevent exploits.
+- [zkToken](https://github.com/ora-io/zkToken): A CLE as ERC-20 token monitor. This monitors whether there is any selling or pumping behavior in the whale account, and then issues an alert signal.
+- [Dex Vigil](https://github.com/issa-me-sush/dex-vigil-zkgraph): A CLE that detects anomalous trading behavior and possibly prevents exploits.
 - [Cross-chain Asset Transfer](https://github.com/issa-me-sush/cross-chain-asset-transfer): An example CLE implementation of cross-chain asset / token / credit transfer system.
 - [MEV Detection](https://github.com/guha-rahul/Proof-of-Sandwiched): A PoC CLE that proves a user's behavior such as `Swap` has been harmed by an MEV bot.
 - [BTC 2 ETH](https://github.com/Mingzhe-W/zkgraph/tree/main/Btc2EthConversionRate): A CLE that calculates for BTC to ETH conversion rate.
@@ -111,7 +111,7 @@ _A List of CLEs Built on ZK Oracle._
 - [BAYC Hacked](https://github.com/arjanjohan/zkgraph-hacked-bayc): A CLE that tracks hacked BAYC by transfer event.
 - [Free Mints](https://github.com/arjanjohan/zkgraph-track-free-mints): A CLE that monitors free mints of NFT.
 - [Proof of OG of Azuki NFT](https://github.com/guha-rahul/Proof-of-OG-of-Azuki-NFT): A CLE that proves the OG mint of Azuki NFT.
-- [Proof of Mint](https://github.com/Gathin23/Proof-of-Mint-zkgraph): A CLE that tracks all the address that has minted DOP token on sepolia.
+- [Proof of Mint](https://github.com/Gathin23/Proof-of-Mint-zkgraph): A CLE that tracks all the addresses that have minted DOP token on sepolia.
 
 ### Game
 
@@ -177,7 +177,7 @@ _Ideas to Build with AI Oracle or zkOracle._
 
 Read more from ORA's idea posts on AI Oracle: [1](https://mirror.xyz/orablog.eth/WhcZyqKeFjcvkKskedBbv8Jrzt5WEmL5JYuUte3NO3w).
 
-*: Based on [InsORAnce](https://github.com/ethTaipei2024/insORAnce) idea, LLM can be a judge / verifier of anything. In InsORAnce, LLM judges if insurance should be payed out based on a protocol's hack (truth) and given rules defining a hack (pre-made template / rule). Actually, the truth and pre-made rule can also be: any onchain events (og wallet moves ETH), and even offchain event. So that the InsORAnce idea can be expanded to insurance for anything onchain + offchain.
+*: Based on [InsORAnce](https://github.com/ethTaipei2024/insORAnce) idea, LLM can be a judge / verifier of anything. In InsORAnce, LLM judges if insurance should be paid out based on a protocol's hack (truth) and given rules defining a hack (pre-made template / rule). Actually, the truth and pre-made rule can also be: any onchain events (og wallet moves ETH), and even offchain event. So that the InsORAnce idea can be expanded to insurance for anything onchain + offchain.
 
 ### zkOracle Ideas
 
@@ -192,7 +192,7 @@ Read more from ORA's idea posts on AI Oracle: [1](https://mirror.xyz/orablog.eth
 | Traditional Oracle Services                | Trustless Compute, and Automation                                       | 🌋          | Build VRF (Verifiable Random Function), VDF (Verifiable Delay Functions), FSS (Fair Sequencing Service).                                                 |
 | Automation Apps                            | Trustless Compute, and Automation                                       | 🔥          | Implement auto-renewal of ENS, automated strategies, onchain liquidator keepers for DeFi protocols...                                                    |
 | DeFi Protocols Remastered                  | Trustless Compute of DeFi Logic, and Automation                         | 🌋          | Use CLEs to reimplement protocols like AAVE, Curve, Uniswap v3, or v4.                                                                                   |
-| Experiemental Games                        | Trustless Compute of Game Logic                                         | 💥          | Implement games like etherquake and GameOfLife instead of pure onchain Solidity.                                                                         |
+| Experimental Games                         | Trustless Compute of Game Logic                                         | 💥          | Implement games like etherquake and GameOfLife instead of pure onchain Solidity.                                                                         |
 | Proof of Voting Power                      | Access Historical `checkpoints`, and Trustless Compute                  | 🔥          |                                                                                                                                                          |
 | Proof of Whale                             | Access Historical `balances` and Trustless Compute                      | 🔥          |                                                                                                                                                          |
 | Proof of Vesting                           | Access Historical Data of ERC-20                                        | 💥          | Query historical data of a token’s vesting status, and determine if the vesting schedule is performed in a correct way.                                  |
@@ -204,7 +204,7 @@ Read more from ORA's idea posts on AI Oracle: [1](https://mirror.xyz/orablog.eth
 | Proof of OG                                | Access Historical Data of User on NFT, Contract Interactions            | 🔥          |                                                                                                                                                          |
 | Proof of Sandwiched                        | Access Historical `Swap` Event of User and Trustless Compute            | 🔥          | Prove that a user's behavior such as `Swap` has been harmed by an MEV bot, and thus compensate the account.                                              |
 | Vault for Arbing Withdrawals on L2 bridges | Trustless Compute of Arbing, and Automation                             | 🌋          | Automated arbitrage through optimistic L2 bridges.                                                                                                       |
-| Very Low Gas DEX                           | Trustless Compute of Aggrgating, and Automation                         | 💥          | Aggregate tiny trades, for a cheaper DEX.                                                                                                                |
+| Very Low Gas DEX                           | Trustless Compute of Aggregating, and Automation                        | 💥          | Aggregate tiny trades, for a cheaper DEX.                                                                                                                |
 | L2 – L2 transfer using Proof of Burn       | Trustless Compute of Transfer, and Automation                           | 🌋          | User burns tokens on L2 A, and posts the proof of burn on L2 B for bridging.                                                                             |
 | Automated Risk Scoring of Pools            | Access Historical Data, Trustless Compute, and Automation               | 🌋          | A combination of credit score of an account, and bad debt scoring of a pool.                                                                             |
 | Better Wallets                             | Trustless Compute as Intent-solver, and Automation                      | 🌋          |                                                                                                                                                          |
