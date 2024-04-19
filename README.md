@@ -7,7 +7,7 @@
   - [🌍 Overview](#-overview)
   - [🤖 AI Oracle Ecosystem](#-ai-oracle-ecosystem)
     - [General](#general)
-    - [AIGC-NFT (ERC-7007)](#aigc-nft-erc-7007)
+    - [AIGC-NFT](#aigc-nft)
   - [🔮 ZK Oracle CLE Ecosystem](#-zk-oracle-cle-ecosystem)
     - [General](#general-1)
     - [DeFi \& DEX \& MEV](#defi--dex--mev)
@@ -39,9 +39,9 @@ _A Collection of Projects Built on AI Oracle._
 
 ### CLEs (Models)
 
-- Grok: A generative artificial intelligence chatbot developed by xAI, based on a large language model.
 - LlaMA 2: A state-of-the-art large language model for coding.
 - Stable Diffusion: A deep learning, text-to-image model released in 2022 based on diffusion techniques.
+- ~Grok: A generative artificial intelligence chatbot developed by xAI, based on a large language model.~
 
 ### Example
 
@@ -152,6 +152,7 @@ _Ideas to Build with AI Oracle or zkOracle._
 
 | Idea                                  | Model in ORA OAO (+ Other Tech Stack)                                |
 |---------------------------------------|----------------------------------------------------------------------|
+| [System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) Powered AI Model           | Any        |
 | Predictor and Analyzer                | Any                                                                  |
 | Asset Pricing                         | Financial Models                                                     |
 | Simulation                            | LLM or Application-Specific Models                                   |
