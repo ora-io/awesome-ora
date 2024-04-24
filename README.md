@@ -171,6 +171,8 @@ The strategy to transform DeFi into ai/fi is simple: "identify the computational
 | AI Lending    | Lending of Any Asset with AI            | Aave, Compound                    |
 | ...           |                                         |                                   |
 
+Read more from ai/fi idea posts: [1](https://mirror.xyz/orablog.eth/cYDQZHGGRHJEZ8_3Ju9D7lIgjjweQmO8u_C-ueYMFhU), [2](https://mirror.xyz/orablog.eth/tHHeXtvl__w8qJiYo6Uu0Iac964Wm0hoVfiL-VDf-Nw).
+
 ### AI Oracle Ideas
 
 | Idea                                  | Model in ORA OAO (+ Other Tech Stack)                                |
