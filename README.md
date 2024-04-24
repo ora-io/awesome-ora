@@ -24,6 +24,7 @@
     - [Security](#security-1)
     - [Others](#others)
   - [💡 Project Ideas](#-project-ideas)
+    - [ai/fi Ideas](#aifi-ideas)
     - [AI Oracle Ideas](#ai-oracle-ideas)
     - [zkOracle Ideas](#zkoracle-ideas)
   - [🔧 Other Contribution by ORA](#-other-contribution-by-ora)
@@ -153,6 +154,22 @@ _A List of CLEs Built on ZK Oracle._
 ## 💡 Project Ideas
 
 _Ideas to Build with AI Oracle or zkOracle._
+
+### ai/fi Ideas
+
+ai/fi = AI + DeFi.
+
+ai/fi is the fusion of AI (verifiable AI inference provided by Onchain AI Oracle) and DeFi.
+
+The strategy to transform DeFi into ai/fi is simple: "identify the computationally intensive part of any DeFi protocol and replace it with AI."
+
+| Idea          | Implementation                          | Existing DeFi Protocols to Add AI |
+|---------------|-----------------------------------------|-----------------------------------|
+| AI Aggregator | Aggregation with Best Swap Rate with AI | 1inch, Paraswap                   |
+| AI AMM        | Dynamic Market Making Curves with AI    | Uniswap v3                        |
+| AI Yield      | Yield Optimization with AI              | Convex, Yearn                     |
+| AI Lending    | Lending of Any Asset with AI            | Aave, Compound                    |
+| ...           |                                         |                                   |
 
 ### AI Oracle Ideas
 
