@@ -13,7 +13,7 @@
     - [AIGC-NFT](#aigc-nft)
     - [Security](#security)
     - [Infrastructure](#infrastructure)
-  - [🔮 ZK Oracle CLE Ecosystem](#-zk-oracle-cle-ecosystem)
+  - [🔮 ZK Oracle Ecosystem](#-zk-oracle-ecosystem)
     - [General](#general-1)
     - [DeFi \& DEX \& MEV](#defi--dex--mev)
     - [Onchain API Oracle](#onchain-api-oracle)
@@ -31,14 +31,13 @@
     - [Researches \& Development](#researches--development)
     - [World Supercomputer](#world-supercomputer)
   - [Improvement Proposals](#improvement-proposals)
-    - [Open Source Libraries](#open-source-libraries)
     - [Open Grant Contribution](#open-grant-contribution)
 
 ## 🌍 Overview
 
 This list focuses on the work related to the ORA ecosystem.
 
-This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablog.eth/qLBIR_yxmpFJ4dg5p5Sn8Wz46aQDTG1jCW8myeE7zZ8) and [zkOracle](https://ethresear.ch/t/defining-zkoracle-for-ethereum/15131) ecosystem, the ERC ecosystem co-authored by ORA, and other ORA contributions.
+This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablog.eth/qLBIR_yxmpFJ4dg5p5Sn8Wz46aQDTG1jCW8myeE7zZ8) ecosystem, the ERC ecosystem co-authored by ORA, and other ORA contributions.
 
 ## 🤖 AI Oracle Ecosystem
 
@@ -83,9 +82,9 @@ _A Collection of Projects Built on AI Oracle._
 
 - [gonnx](https://github.com/alan890104/mlgo): A framework for converting ONNX to MLGO for better opML developer experience and AI Oracle model integration. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4iw0yc0jnawc01egwdglx8/idea).
 
-## 🔮 ZK Oracle CLE Ecosystem
+## 🔮 ZK Oracle Ecosystem
 
-_A List of CLEs Built on ZK Oracle._
+_A List of Projects Built on ZK Oracle._
 
 ### General
 
@@ -263,13 +262,6 @@ _ORA's Contribution to General Web3, Blockchain, and Crypto Space._
 - [Ethereum/ERC-6150](https://eips.ethereum.org/EIPS/eip-6150)
 - [Ethereum/ERC-7007](https://eips.ethereum.org/EIPS/eip-7007), and ecosystem ([ZenetikNFT](https://ethglobal.com/showcase/zenetiknft-1ph5r) and [AIME](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu46p1ai0j1owc01k3ivvjm4/idea))
 - [Celestia/CIP-5](https://github.com/celestiaorg/CIPs/blob/main/cips/cip-5.md)
-
-### Open Source Libraries
-
-- [create-cle](https://www.npmjs.com/package/create-cle)
-- [cle-api](https://www.npmjs.com/package/@ora-io/cle-api)
-- [cle-lib](https://www.npmjs.com/package/@ora-io/cle-lib)
-- [cle-cli](https://www.npmjs.com/package/@ora-io/cle-cli)
 
 ### Open Grant Contribution
 
