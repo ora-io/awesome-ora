@@ -6,8 +6,9 @@
   - [📑 Table of Contents](#-table-of-contents)
   - [🌍 Overview](#-overview)
   - [🤖 AI Oracle Ecosystem](#-ai-oracle-ecosystem)
-    - [CLEs (Models)](#cles-models)
-    - [Example](#example)
+    - [Models](#models)
+    - [Examples](#examples)
+    - [Tutorials](#tutorials)
     - [General](#general)
     - [DeFi](#defi)
     - [AIGC-NFT](#aigc-nft)
@@ -41,18 +42,23 @@ This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablo
 
 ## 🤖 AI Oracle Ecosystem
 
-_A Collection of Projects Built on AI Oracle._
+_A Collection of Projects Built on Onchain AI Oracle (OAO)._
 
-### CLEs (Models)
+### Models
 
-- LlaMA 2: A state-of-the-art large language model for coding.
+- LlaMA 3: A state-of-the-art large language model for coding.
 - Stable Diffusion: A deep learning, text-to-image model released in 2022 based on diffusion techniques.
 - ~Grok: A generative artificial intelligence chatbot developed by xAI, based on a large language model.~
 
-### Example
+### Examples
 
 - [Prompt](https://github.com/ora-io/OAO/blob/main/contracts/Prompt.sol): A simple smart contract that uses OAO for LLM responses.
 - [SimplePrompt](https://github.com/ora-io/OAO/blob/main/contracts/SimplePrompt.sol): A simpler, event-only and gas-efficient smart contract that uses OAO for LLM responses.
+
+### Tutorials
+
+- [Interaction with OAO](https://docs.ora.io/doc/oao-onchain-ai-oracle/develop-guide/tutorials/interaction-with-oao-tutorial): Build AI DApp powered by OAO. See also video tutorial [here](https://www.youtube.com/watch?v=8fcJbeKN1uM).
+- [Integration with OAO](https://docs.ora.io/doc/oao-onchain-ai-oracle/develop-guide/tutorials/integration-into-oao-tutorial): Integrate your AI model into opML and OAO.
 
 ### General
 
@@ -88,7 +94,7 @@ _A List of Projects Built on ZK Oracle._
 
 ### General
 
-- [CLE Examples](https://github.com/ora-io/cle/tree/main/templates): A list of CLEs, including Uniswap Price Calculation, zkAutomation-based CLE, and multi-address based CLE. This is the implementation by ORA.
+- [CLE (Computational Entity) Examples](https://github.com/ora-io/cle/tree/main/templates): A list of CLEs, including Uniswap Price Calculation, zkAutomation-based CLE, and multi-address based CLE. This is the implementation by ORA.
 - [zkUsecases](https://github.com/LiRiu/zkUsecases/tree/norman/example): A list of CLEs, including SeaPort Trading Activity, and USDT Transfer Volume Per Block.
 - [zkAMM](https://github.com/Defi-3/zkAMM-contracts): A zkOracle-based automated market maker that is fully scalable with unlimited computation resources.
 - [dETF](https://github.com/Defi-3/dETF-Contract): A zkOracle-based fully onchain and decentralized ETF protocol.
