@@ -87,6 +87,7 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 ### Infrastructure
 
 - [gonnx](https://github.com/alan890104/mlgo): A framework for converting ONNX to MLGO for better opML developer experience and AI Oracle model integration. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4iw0yc0jnawc01egwdglx8/idea).
+- [Dune Dashboard](https://dune.com/gathin/oao): A data analysis dashboard for OAO, covering onchain usage, onchain revenue, and more. See also [dashboard for testnet](https://oao-dashboard.vercel.app/), based on The Graph.
 
 ## 🔮 ZK Oracle Ecosystem
 
@@ -215,6 +216,17 @@ Read more from ai/fi idea posts: [1](https://mirror.xyz/orablog.eth/cYDQZHGGRHJE
 Read more from ORA's idea posts on AI Oracle: [1](https://mirror.xyz/orablog.eth/WhcZyqKeFjcvkKskedBbv8Jrzt5WEmL5JYuUte3NO3w).
 
 *: Based on [InsORAnce](https://github.com/ethTaipei2024/insORAnce) idea, LLM can be a judge / verifier of anything. In InsORAnce, LLM judges if insurance should be paid out based on a protocol's hack (truth) and given rules defining a hack (pre-made template / rule). Actually, the truth and pre-made rule can also be: any onchain events (og wallet moves ETH), and even offchain event. So that the InsORAnce idea can be expanded to insurance for anything onchain + offchain.
+
+| Infra Ideas        | Details                                                                                         |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| Paymaster for OAO  | OAO fees are in $ETH. A paymaster can enable users to pay with $USDT to improve OAO's adoption. |
+| Dashboard for OAO  | Data analysis or "mempool" dashboard* for OAO.                                                  |
+| Interop for OAO    | Explore how OAO result from chain A can be used in chain B.                                     |
+| Optimized OAO      | Optimize OAO contract with Assembly, or other novel smart contract languages.                   |
+| Fast Finalized OAO | Explore how DApp with OAO's optimistic mechanism can be finalized faster with architecture like [this](https://ethresear.ch/t/why-wait-a-week-fast-finality-optimistic-rollups/18868) |
+| Scaffold-OAO       | Adapt Scaffold-Eth for OAO, so that devs can one-click initialize OAO AI DApp.                  |
+
+*: Existing [data analysis dashboard for OAO by Gathin](https://dune.com/gathin/oao). Mempool dashboard can be similar to [Ethernow](https://www.ethernow.xyz/mempool/all), but only showing OAO-related transactions.
 
 ### zkOracle Ideas
 
