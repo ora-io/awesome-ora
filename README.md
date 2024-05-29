@@ -168,43 +168,49 @@ ai/fi is the fusion of AI (verifiable AI inference provided by Onchain AI Oracle
 
 The strategy to transform DeFi into ai/fi is simple: "identify the computationally intensive part of any DeFi protocol and replace it with AI."
 
-| Idea          | Implementation                          | Existing DeFi Protocols to Add AI |
-|---------------|-----------------------------------------|-----------------------------------|
-| AI Aggregator | Aggregation with Best Swap Rate with AI | 1inch, Paraswap                   |
-| AI AMM        | Dynamic Market Making Curves with AI    | Uniswap v3                        |
-| AI Yield      | Yield Optimization with AI              | Convex, Yearn                     |
-| AI Lending    | Lending of Any Asset with AI            | Aave, Compound                    |
-| ...           |                                         |                                   |
+| Idea          | Implementation                           | Existing DeFi Protocols to Add AI |
+|---------------|------------------------------------------|-----------------------------------|
+| AI Aggregator | Aggregation with Best Swap Rate with AI  | 1inch, Paraswap                   |
+| AI AMM        | Dynamic Market Making Curves with AI     | Uniswap v3                        |
+| AI Yield      | Yield Optimization with AI               | Convex, Yearn                     |
+| AI Lending    | Lending of Any Asset with AI             | Aave, Compound                    |
+| AI Stablecoin | Stablecoin backed by Arbitrary Asset     | MakerDAO                          |
+| AI Governance | AI Proposal Initiation, Review, Explainer| Any Protocol with Governance      |
+| AI DAO        | AI-based DAO Management and Enforcement  | Any Protocol with DAO             |
+| ...           |                                          |                                   |
 
 Read more from ai/fi idea posts: [1](https://mirror.xyz/orablog.eth/cYDQZHGGRHJEZ8_3Ju9D7lIgjjweQmO8u_C-ueYMFhU), [2](https://mirror.xyz/orablog.eth/tHHeXtvl__w8qJiYo6Uu0Iac964Wm0hoVfiL-VDf-Nw).
 
 ### AI Oracle Ideas
 
-| Idea                                  | Model in ORA OAO (+ Other Tech Stack)                                |
-|---------------------------------------|----------------------------------------------------------------------|
-| [System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) Powered AI Model           | Any        |
-| Predictor and Analyzer                | Any                                                                  |
-| Asset Pricing                         | Financial Models                                                     |
-| Simulation                            | LLM or Application-Specific Models                                   |
-| Credit/Risk Analyzer                  | LLM or Financial Models                                              |
-| Sentiment Analysis                    | LLM or Application-Specific Models                                   |
-| Judge of Anything based on Rules*     | LLM                                                                  |
-| Trading Bot Wif MEV                   | Financial Models (+ Flashbots SUAVE stack)                           |
-| Aggregator                            | Financial Models                                                     |
-| "Point Guard"                         | Financial Models                                                     |
-| Copy-trading                          | Financial Models                                                     |
-| AIGC-NFT (Pure, Loot-style, Remixing) | Text2Image or Text2Video Models (+ Prompt Engineering / Fine-tuning) |
-| AI as Game Moderator                  | LLM or Application-Specific Models                                   |
-| AI as Governor                        | LLM or Application-Specific Models                                   |
-| AI as NPC                             | LLM or Application-Specific Models                                   |
-| AI as Opponent                        | LLM or Application-Specific Models                                   |
-| AI as Counterparty                    | LLM or Application-Specific Models                                   |
-| Agent for Whale's Governance          | LLM or Application-Specific Models                                   |
-| Content Moderator                     | LLM                                                                  |
-| Code Generator                        | LLM                                                                  |
-| Security Gadget                       | LLM or Application-Specific Models                                   |
-| Bring Your Own Model                  | / (+ Use opML to Integrate New Models into OAO)                      |
-| Rebuild Everything                    | Any (+ Rebuild All Protocols with AI)                                |
+| Idea                                        | Model in ORA OAO (+ Other Tech Stack)                                |
+|---------------------------------------------|----------------------------------------------------------------------|
+| [System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) Powered AI Model           | Any              |
+| Chat / GPTs with OAO                        | LLM                                                                  |
+| Specific Agents (Fortune Teller, AI GF...)  | LLM                                                                  |
+| "Community Notes" with Onchain AI           | LLM                                                                  |
+| Predictor and Analyzer                      | Any                                                                  |
+| Asset Pricing                               | Financial Models                                                     |
+| Simulation                                  | LLM or Application-Specific Models                                   |
+| Credit/Risk Analyzer                        | LLM or Financial Models                                              |
+| Sentiment Analysis                          | LLM or Application-Specific Models                                   |
+| Judge of Anything based on Rules*           | LLM                                                                  |
+| Trading Bot Wif MEV                         | Financial Models (+ Flashbots SUAVE stack)                           |
+| Aggregator                                  | Financial Models                                                     |
+| "Point Guard"                               | Financial Models                                                     |
+| Copy-trading                                | Financial Models                                                     |
+| AIGC-NFT (Pure, Loot-style, Remixing)       | Text2Image or Text2Video Models (+ Prompt Engineering / Fine-tuning) |
+| AI as Game Moderator                        | LLM or Application-Specific Models                                   |
+| AI as Governor                              | LLM or Application-Specific Models                                   |
+| AI as NPC                                   | LLM or Application-Specific Models                                   |
+| AI as Opponent                              | LLM or Application-Specific Models                                   |
+| AI as Counterparty                          | LLM or Application-Specific Models                                   |
+| Agent for Whale's Governance                | LLM or Application-Specific Models                                   |
+| Content Moderator                           | LLM                                                                  |
+| Code Generator                              | LLM                                                                  |
+| Security Gadget                             | LLM or Application-Specific Models                                   |
+| Bring Your Own Model                        | / (+ Use opML to Integrate New Models into OAO)                      |
+| Rebuild Everything                          | Any (+ Rebuild All Protocols with AI)                                |
 
 Read more from ORA's idea posts on AI Oracle: [1](https://mirror.xyz/orablog.eth/WhcZyqKeFjcvkKskedBbv8Jrzt5WEmL5JYuUte3NO3w).
 
