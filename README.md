@@ -176,11 +176,13 @@ The strategy to transform DeFi into ai/fi is simple: "identify the computational
 | AI Yield      | Yield Optimization with AI               | Convex, Yearn                     |
 | AI Lending    | Lending of Any Asset with AI             | Aave, Compound                    |
 | AI Stablecoin | Stablecoin backed by Arbitrary Asset     | MakerDAO                          |
-| AI Governance | AI Proposal Initiation, Review, Explainer| Any Protocol with Governance      |
+| AI Governance*| AI Proposal Initiation, Review, Explainer| Any Protocol with Governance      |
 | AI DAO        | AI-based DAO Management and Enforcement  | Any Protocol with DAO             |
 | ...           |                                          |                                   |
 
 Read more from ai/fi idea posts: [1](https://mirror.xyz/orablog.eth/cYDQZHGGRHJEZ8_3Ju9D7lIgjjweQmO8u_C-ueYMFhU), [2](https://mirror.xyz/orablog.eth/tHHeXtvl__w8qJiYo6Uu0Iac964Wm0hoVfiL-VDf-Nw).
+
+*: See [recursive_llm_organization](https://github.com/marcgraczyk/recursive_llm_organization).
 
 ### AI Oracle Ideas
 
