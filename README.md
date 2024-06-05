@@ -65,9 +65,11 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 - [Humm Protocol](https://twitter.com/hummprotocol): An AI-based protocol for AI ownership and monetization.
 - [AI Intent Engine](https://github.com/LiRiu/oaoie): An intent engine with OAO, leveraging onchain LlaMA2 to solve user intent in natural language into onchain actions (send, and swap). Also a fork called [COCOA](https://github.com/ailuropodaWu/ethtaipei2024) for cross-chain usage [built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4wseee0knky5017s517lk3/idea).
 - [Grok vs Llama](https://github.com/socathie/grok-vs-llama): An Onchain AI vs Onchain AI project. In this project, LlaMA2 monitors whether Grok is in a Glitch state (related: [AI Mirror Test](https://twitter.com/joshwhiton/status/1770870738863415500)), and if so, the user who initiated the AI request is rewarded with a bounty for finding Grok's "weakness". [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3sufsj0imuw201g0peq4s1/idea).
+- [OAOFrame](https://github.com/liriu/OAOFrame): A Farcaster Frame with fortune-telling powered by Onchain AI.
 
 ### DeFi
 
+- [Lending Zone](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-2024/projects/clwx0zyac0481y101y13fssjg/idea): A protocol for borrowing with NFTs as collateral and earning yield by lending assets, powered by AI valuations of NFTs.
 - [AI NFT Bot](https://github.com/cong2480/AI_NFT_bot): A pricing engine for NFT assisted with onchain AI. [Built during ETHDenver](https://devpost.com/software/llm-assisted-valuation-based-nft-trading-bot).
 
 ### AIGC-NFT
