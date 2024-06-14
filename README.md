@@ -27,6 +27,7 @@
   - [💡 Project Ideas](#-project-ideas)
     - [ai/fi Ideas](#aifi-ideas)
     - [AI Oracle Ideas](#ai-oracle-ideas)
+    - [Infra Ideas](#infra-ideas)
     - [zkOracle Ideas](#zkoracle-ideas)
   - [🔧 Other Contribution by ORA](#-other-contribution-by-ora)
     - [Researches \& Development](#researches--development)
@@ -174,7 +175,8 @@ The strategy to transform DeFi into ai/fi is simple: "identify the computational
 | Idea          | Implementation                           | Existing DeFi Protocols to Add AI |
 |---------------|------------------------------------------|-----------------------------------|
 | AI Aggregator | Aggregation with Best Swap Rate with AI  | 1inch, Paraswap                   |
-| AI AMM        | Dynamic Market Making Curves with AI     | Uniswap v3                        |
+| AI AMM (0)    | Dynamic Market Making Curves with AI     | Uniswap v3                        |
+| AI AMM (1)    | CowSwap, but with AI as Order Filler     | Uniswap v3                        |
 | AI Yield      | Yield Optimization with AI               | Convex, Yearn                     |
 | AI Lending    | Lending of Any Asset with AI             | Aave, Compound                    |
 | AI Stablecoin | Stablecoin backed by Arbitrary Asset     | MakerDAO                          |
@@ -220,6 +222,8 @@ Read more from ai/fi idea posts: [1](https://mirror.xyz/orablog.eth/cYDQZHGGRHJE
 Read more from ORA's idea posts on AI Oracle: [1](https://mirror.xyz/orablog.eth/WhcZyqKeFjcvkKskedBbv8Jrzt5WEmL5JYuUte3NO3w).
 
 *: Based on [InsORAnce](https://github.com/ethTaipei2024/insORAnce) idea, LLM can be a judge / verifier of anything. In InsORAnce, LLM judges if insurance should be paid out based on a protocol's hack (truth) and given rules defining a hack (pre-made template / rule). Actually, the truth and pre-made rule can also be: any onchain events (og wallet moves ETH), and even offchain event. So that the InsORAnce idea can be expanded to insurance for anything onchain + offchain.
+
+### Infra Ideas
 
 | Infra Ideas        | Details                                                                                         |
 |--------------------|-------------------------------------------------------------------------------------------------|
