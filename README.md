@@ -159,6 +159,7 @@ _A List of Projects Built on ZK Oracle._
 ### Others
 
 - [Decentralized Moderation](https://github.com/issa-me-sush/decentralized-content-moderation): Content moderation system based on CLE for a decentralized social network or any kind of customized DAO or decentralized network/ecosystem.
+- [ORAPulse](https://github.com/varun-doshi/ORA-Pulse-frontend): Trustless dashboard for Layer 2's "block pulse".
 
 ## 💡 Project Ideas
 
