@@ -76,7 +76,7 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 ### AIGC-NFT
 
 - [7007](https://twitter.com/lab7007): An ERC-7007 based platform offering on-chain AIGC generation services and monetizing of AI Models.
-- [Onchain AI NFT](https://github.com/varun-doshi/Onchain-AI-NFT): An onchain AI NFT project utilizing AI Oracle's Stable Diffusion to generate image NFT directly onchain. Complete tutorial [here](https://medium.com/@varun-doshi/bring-ai-on-chain-with-ora-protocol-b7a034d24182).
+- [Onchain AI NFT](https://github.com/varun-doshi/Onchain-AI-NFT): An onchain AI NFT project utilizing AI Oracle's Stable Diffusion to generate image NFT directly onchain. Complete the tutorial [here](https://medium.com/@varun-doshi/bring-ai-on-chain-with-ora-protocol-b7a034d24182).
 - [OAOLimerick](https://github.com/Tokenseller-Leezi/OAOLimerick): An onchain AI Limerick NFT using AI Oracle's LlaMA2 for generating poet NFT directly onchain.
 - [Graviola NFT](https://github.com/el-tumero/graviola): An onchain NFT collection with minimalistic portraits of fictional characters. [Built during ETHDenver](https://devpost.com/software/awdawdawdw).
 - [ABC-ORA](https://github.com/Gathin23/abc-ora): An ERC-7007 based AIGC music NFT project, using AI Oracle's LLM to generate music notes and mint the piece into NFT. [Built during ETHTaipei](https://devpost.com/software/abc-ora).
@@ -267,7 +267,7 @@ Read more from ORA's idea posts on AI Oracle: [1](https://mirror.xyz/orablog.eth
 | Automated Risk Scoring of Pools            | Access Historical Data, Trustless Compute, and Automation               | 🌋          | A combination of credit score of an account, and bad debt scoring of a pool.                                                                             |
 | Better Wallets                             | Trustless Compute as Intent-solver, and Automation                      | 🌋          |                                                                                                                                                          |
 | zkOracle with Uniswap Hooks                | Trustless Compute of Offchain Logic                                     | 💥          | Use `beforeX` hook to verify the zkp from zkOracle.                                                                                                      |
-| Dark Forest Rank                           | Trustless Compute of Blockchain World Ranking                           | 💥          | Analyze full history and operations of a contract or account to generate a ranking of all contracts and accounts (value, trade profit, MEV profit).      |
+| Dark Forest Rank                           | Trustless Compute of Blockchain World Ranking                           | 💥          | Analyze the full history and operations of a contract or account to generate a ranking of all contracts and accounts (value, trade profit, MEV profit).      |
 
 *: Difficulty levels are from Eazy (🔥) -> Normal (💥) -> Advanced (🌋).
 
