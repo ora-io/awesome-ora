@@ -14,6 +14,8 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 
 - LlaMA 3: A state-of-the-art large language model for coding.
 - Stable Diffusion: A deep learning, text-to-image model released in 2022 based on diffusion techniques.
+- OpenLM: A performative language modeling (LM) repository, aimed to facilitate research on medium sized LMs.
+- OpenLM Chat and Score: Fine-tuned models based on OpenLM.
 - ~Grok: A generative artificial intelligence chatbot developed by xAI, based on a large language model.~
 
 ### Examples
@@ -25,6 +27,10 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 
 - [Interaction with OAO](https://docs.ora.io/doc/oao-onchain-ai-oracle/develop-guide/tutorials/interaction-with-oao-tutorial): Build AI DApp powered by OAO. See also video tutorial [here](https://www.youtube.com/watch?v=8fcJbeKN1uM).
 - [Integration with OAO](https://docs.ora.io/doc/oao-onchain-ai-oracle/develop-guide/tutorials/integration-into-oao-tutorial): Integrate your AI model into opML and OAO.
+
+### Dashboard
+- [ORA OAO Dashboard by ORA](https://dune.com/ora_io/oao): A Dune dashboard for OAO request number by chain, OAO revenue, OAO callback gas, OAO request number by model.
+- [ORA Staking Dashboard by Hashed]: A Dune dashboard for ORA Staking stats.
 
 ### General
 
@@ -55,7 +61,6 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 ### Infrastructure
 
 - [gonnx](https://github.com/alan890104/mlgo): A framework for converting ONNX to MLGO for better opML developer experience and AI Oracle model integration. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4iw0yc0jnawc01egwdglx8/idea).
-- [Dune Dashboard](https://dune.com/gathin/oao): A data analysis dashboard for OAO, covering onchain usage, onchain revenue, and more. See also [dashboard for testnet](https://oao-dashboard.vercel.app/), based on The Graph.
 
 ## 🔮 ZK Oracle Ecosystem
 
