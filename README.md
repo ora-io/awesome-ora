@@ -1,40 +1,5 @@
 # ⃝ Awesome ORA
 
-## 📑 Table of Contents
-
-- [⃝ Awesome ORA](#⃝-awesome-ora)
-  - [📑 Table of Contents](#-table-of-contents)
-  - [🌍 Overview](#-overview)
-  - [🤖 AI Oracle Ecosystem](#-ai-oracle-ecosystem)
-    - [Models](#models)
-    - [Examples](#examples)
-    - [Tutorials](#tutorials)
-    - [General](#general)
-    - [DeFi](#defi)
-    - [AIGC-NFT](#aigc-nft)
-    - [Security](#security)
-    - [Infrastructure](#infrastructure)
-  - [🔮 ZK Oracle Ecosystem](#-zk-oracle-ecosystem)
-    - [General](#general-1)
-    - [DeFi \& DEX \& MEV](#defi--dex--mev)
-    - [Onchain API Oracle](#onchain-api-oracle)
-    - [NFT](#nft)
-    - [Game](#game)
-    - [Proof of X](#proof-of-x)
-    - [Libraries \& Utils](#libraries--utils)
-    - [Security](#security-1)
-    - [Others](#others)
-  - [💡 Project Ideas](#-project-ideas)
-    - [ai/fi Ideas](#aifi-ideas)
-    - [AI Oracle Ideas](#ai-oracle-ideas)
-    - [Infra Ideas](#infra-ideas)
-    - [zkOracle Ideas](#zkoracle-ideas)
-  - [🔧 Other Contribution by ORA](#-other-contribution-by-ora)
-    - [Researches \& Development](#researches--development)
-    - [World Supercomputer](#world-supercomputer)
-  - [Improvement Proposals](#improvement-proposals)
-    - [Open Grant Contribution](#open-grant-contribution)
-
 ## 🌍 Overview
 
 This list focuses on the work related to the ORA ecosystem.
