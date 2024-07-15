@@ -30,10 +30,11 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 
 ### Dashboard
 - [ORA OAO Dashboard by ORA](https://dune.com/ora_io/oao): A Dune dashboard for OAO request number by chain, OAO revenue, OAO callback gas, OAO request number by model.
-- [ORA Staking Dashboard by Hashed]: A Dune dashboard for ORA Staking stats.
+- [ORA Staking Dashboard by Hashed](https://dune.com/hashed_official/ora): A Dune dashboard for ORA Staking stats.
 
 ### General
 
+- [ChatOLM](https://chatolm.com/): A decentralized, onchain, censorship-resistant, verifiable, and permissionless AI chatbot powered by onchain AI.
 - [Humm Protocol](https://twitter.com/hummprotocol): An AI-based protocol for AI ownership and monetization.
 - [AI Intent Engine](https://github.com/LiRiu/oaoie): An intent engine with OAO, leveraging onchain LlaMA2 to solve user intent in natural language into onchain actions (send, and swap). Also a fork called [COCOA](https://github.com/ailuropodaWu/ethtaipei2024) for cross-chain usage [built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4wseee0knky5017s517lk3/idea).
 - [Grok vs Llama](https://github.com/socathie/grok-vs-llama): An Onchain AI vs Onchain AI project. In this project, LlaMA2 monitors whether Grok is in a Glitch state (related: [AI Mirror Test](https://twitter.com/joshwhiton/status/1770870738863415500)), and if so, the user who initiated the AI request is rewarded with a bounty for finding Grok's "weakness". [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3sufsj0imuw201g0peq4s1/idea).
