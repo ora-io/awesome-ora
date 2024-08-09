@@ -1,6 +1,7 @@
 # ⃝ Awesome ORA
 
 ## 🌍 Overview
+ORA is Ethereum's Trustless AI that enables AI on the blockchain.
 
 This list focuses on the work related to the ORA ecosystem.
 
