@@ -2,6 +2,8 @@
 
 ## 🌍 Overview
 
+ORA is Ethereum's Trustless AI that enables AI on the blockchain.
+
 This list focuses on the work related to the ORA ecosystem.
 
 This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablog.eth/qLBIR_yxmpFJ4dg5p5Sn8Wz46aQDTG1jCW8myeE7zZ8) ecosystem, the ERC ecosystem co-authored by ORA, ZK Oracle ecosystem and other ORA contributions.
@@ -168,7 +170,7 @@ ERC-6150 is a standard for Hierarchical NFTs, co-authored by [@ORAProtocol](http
 For more details check official [EIP post](https://eips.ethereum.org/EIPS/eip-6150).
 
 ## 🤖 ZK Oracle Ecosystem
-For info about zk oracle ecosystem read [zk-oracle](./zk-oracle/zk-oracle.md) page. 
+For info about zk oracle ecosystem read [zk-oracle](./zk-oracle/zk-oracle.md) page.
 
 ## 🔧 Other Contribution by ORA
 
