@@ -32,6 +32,7 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 ### Dashboard
 - [ORA OAO Dashboard by ORA](https://dune.com/ora_io/oao): A Dune dashboard for OAO request number by chain, OAO revenue, OAO callback gas, OAO request number by model.
 - [ORA Staking Dashboard by Hashed](https://dune.com/hashed_official/ora): A Dune dashboard for ORA Staking stats.
+- [ORA Staking Number of Unique Stakers query](https://dune.com/queries/4112681/6924085): A Dune query for number of unique ORA Staking users.
 
 ### General
 
