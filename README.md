@@ -35,11 +35,16 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 
 ### General
 
-- [ChatOLM](https://chatolm.com/): A decentralized, onchain, censorship-resistant, verifiable, and permissionless AI chatbot powered by onchain AI.
 - [Humm Protocol](https://twitter.com/hummprotocol): An AI-based protocol for AI ownership and monetization.
 - [AI Intent Engine](https://github.com/LiRiu/oaoie): An intent engine with OAO, leveraging onchain LlaMA2 to solve user intent in natural language into onchain actions (send, and swap). Also a fork called [COCOA](https://github.com/ailuropodaWu/ethtaipei2024) for cross-chain usage [built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4wseee0knky5017s517lk3/idea).
 - [Grok vs Llama](https://github.com/socathie/grok-vs-llama): An Onchain AI vs Onchain AI project. In this project, LlaMA2 monitors whether Grok is in a Glitch state (related: [AI Mirror Test](https://twitter.com/joshwhiton/status/1770870738863415500)), and if so, the user who initiated the AI request is rewarded with a bounty for finding Grok's "weakness". [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3sufsj0imuw201g0peq4s1/idea).
 - [OAOFrame](https://github.com/liriu/OAOFrame): A Farcaster Frame with fortune-telling powered by Onchain AI.
+- [Coincentive](https://github.com/LordEvendim/ETHWarsaw2024/tree/main): An incentive system designed to reward community members for meaningful contributions to discussions and decision-making processes. [Built during EthWarsaw](https://devfolio.co/projects/coincentive-3a62).
+
+### AI Query Resolution
+- [ChatOLM](https://chatolm.com/): A decentralized, onchain, censorship-resistant, verifiable, and permissionless AI chatbot powered by onchain AI.
+- [AI Settlement Oracle](https://www.ora.io/ai-settlement-oracle/): AI-powered truth machine, leveraging verifiable AI to resolve and settle factual questions onchain. It offers a trustless, autonomous system for information resolution, eliminating human error and manipulation.
+- [Put Ur Bet](https://devfolio.co/projects/put-ur-bet-pub-eeca): AI-powered query settlement. Leverages AI Oracles to enhance prediction markets by providing unbiased, subjective decisions, especially for complex or nuanced queries.
 
 ### DeFi
 
@@ -63,6 +68,7 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 ### Infrastructure
 
 - [gonnx](https://github.com/alan890104/mlgo): A framework for converting ONNX to MLGO for better opML developer experience and AI Oracle model integration. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4iw0yc0jnawc01egwdglx8/idea).
+- [ORA Explorer](https://devfolio.co/projects/ora-explorer-cf98): A dashboard providing detailed insights into AI Oracle activities, enabling users to track and analyze decentralized AI operations.
 
 
 ## 💡 Project Ideas
