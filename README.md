@@ -1,7 +1,7 @@
 # ⃝ Awesome ORA
 
 ## 🌍 Overview
-ORA is Ethereum's Trustless AI that enables AI on the blockchain.
+ORA is World Intelligence protocol that connects AI and crypto.
 
 This list focuses on the work related to the ORA ecosystem.
 
@@ -10,14 +10,6 @@ This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablo
 ## 🤖 AI Oracle Ecosystem
 
 _A Collection of Projects Built on Onchain AI Oracle (OAO)._
-
-### Models
-
-- LlaMA 3: A state-of-the-art large language model for coding.
-- Stable Diffusion: A deep learning, text-to-image model released in 2022 based on diffusion techniques.
-- OpenLM: A performative language modeling (LM) repository, aimed to facilitate research on medium sized LMs.
-- OpenLM Chat and Score: Fine-tuned models based on OpenLM.
-- ~Grok: A generative artificial intelligence chatbot developed by xAI, based on a large language model.~
 
 ### Examples
 
@@ -42,6 +34,7 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 - [Coincentive](https://github.com/LordEvendim/ETHWarsaw2024/tree/main): An incentive system designed to reward community members for meaningful contributions to discussions and decision-making processes. [Built during EthWarsaw](https://devfolio.co/projects/coincentive-3a62).
 
 ### AI Query Resolution
+
 - [ChatOLM](https://chatolm.com/): A decentralized, onchain, censorship-resistant, verifiable, and permissionless AI chatbot powered by onchain AI.
 - [AI Settlement Oracle](https://www.ora.io/ai-settlement-oracle/): AI-powered truth machine, leveraging verifiable AI to resolve and settle factual questions onchain. It offers a trustless, autonomous system for information resolution, eliminating human error and manipulation.
 - [Put Ur Bet](https://devfolio.co/projects/put-ur-bet-pub-eeca): AI-powered query settlement. Leverages AI Oracles to enhance prediction markets by providing unbiased, subjective decisions, especially for complex or nuanced queries.
