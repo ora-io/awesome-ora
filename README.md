@@ -9,19 +9,10 @@ This includes the [AI Oracle (OAO, Onchain AI Oracle)](https://mirror.xyz/orablo
 
 ## 🤖 AI Oracle Ecosystem
 
-_A Collection of Projects Built on Onchain AI Oracle (OAO)._
-
-### Examples
-
-- [Prompt](https://github.com/ora-io/OAO/blob/main/contracts/Prompt.sol): A simple smart contract that uses OAO for LLM responses.
-- [SimplePrompt](https://github.com/ora-io/OAO/blob/main/contracts/SimplePrompt.sol): A simpler, event-only and gas-efficient smart contract that uses OAO for LLM responses.
-
-### Tutorials
-
-- [Interaction with OAO](https://docs.ora.io/doc/oao-onchain-ai-oracle/develop-guide/tutorials/interaction-with-oao-tutorial): Build AI DApp powered by OAO. See also video tutorial [here](https://www.youtube.com/watch?v=8fcJbeKN1uM).
-- [Integration with OAO](https://docs.ora.io/doc/oao-onchain-ai-oracle/develop-guide/tutorials/integration-into-oao-tutorial): Integrate your AI model into opML and OAO.
+_A Collection of Projects Built on Resilient Model Services (RMS), Onchain AI Oracle (OAO) and Onchain Perpetual AI Agent (opAgent)._
 
 ### Dashboard
+
 - [ORA OAO Dashboard by ORA](https://dune.com/ora_io/oao): A Dune dashboard for OAO request number by chain, OAO revenue, OAO callback gas, OAO request number by model.
 - [ORA Staking Dashboard by Hashed](https://dune.com/hashed_official/ora): A Dune dashboard for ORA Staking stats.
 
@@ -32,6 +23,12 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 - [Grok vs Llama](https://github.com/socathie/grok-vs-llama): An Onchain AI vs Onchain AI project. In this project, LlaMA2 monitors whether Grok is in a Glitch state (related: [AI Mirror Test](https://twitter.com/joshwhiton/status/1770870738863415500)), and if so, the user who initiated the AI request is rewarded with a bounty for finding Grok's "weakness". [Built during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3sufsj0imuw201g0peq4s1/idea).
 - [OAOFrame](https://github.com/liriu/OAOFrame): A Farcaster Frame with fortune-telling powered by Onchain AI.
 - [Coincentive](https://github.com/LordEvendim/ETHWarsaw2024/tree/main): An incentive system designed to reward community members for meaningful contributions to discussions and decision-making processes. [Built during EthWarsaw](https://devfolio.co/projects/coincentive-3a62).
+- [EthMedia](https://devfolio.co/projects/can-merkle-dag-web-agents-simulate-human-trust-e26e): Merkle-Proof Hyper-Agent Network that enables transparency and accountability for media. Built during ETHDenver.
+
+### AI Agents
+
+- [optim](https://github.com/aeither/optim-agent): An AI Agent that analyzes and optimizes yield on lending protocols including Aave.
+- [Defius Maximus](https://devfolio.co/projects/defius-maximus-c42a): A personalized leverage trading agent that increases your winrate with AI.
 
 ### AI Query Resolution
 
@@ -57,6 +54,7 @@ _A Collection of Projects Built on Onchain AI Oracle (OAO)._
 
 - [InsORAnce](https://github.com/ethTaipei2024/insORAnce): An insurance protocol for DeFi that utilizes AI Oracle for evaluating insurance rules and conditions, and zkAutomation for automated hacking detection. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3x7hrz0ioyw201x5jhtvkq/idea).
 - [AGI (Artificial Guarding Intelligence)](https://github.com/LiRiu/OAOPause): A prototype of circuit breaker for smart contract based on AI-powered simulation of protocol security. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4sf7s30k0cwc019pwduzgj/idea).
+- [DeepTx](https://devfolio.co/projects/deeptx-c682): AI-Powered Transaction Guard. Built during ETHDenver.
 
 ### Infrastructure
 
