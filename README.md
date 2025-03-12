@@ -60,6 +60,7 @@ _A Collection of Projects Built on Resilient Model Services (RMS), Onchain AI Or
 
 - [gonnx](https://github.com/alan890104/mlgo): A framework for converting ONNX to MLGO for better opML developer experience and AI Oracle model integration. [Build during ETHTaipei](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu4iw0yc0jnawc01egwdglx8/idea).
 - [ORA Explorer](https://devfolio.co/projects/ora-explorer-cf98): A dashboard providing detailed insights into AI Oracle activities, enabling users to track and analyze decentralized AI operations.
+- [Pattern](https://pattern.global/): A multi-agent system transforming raw data in real time, into structured knowledge. It cuts through data fragmentation, making it easier and faster for users and developers to access the insights they need. 
 
 
 ## 💡 Project Ideas
